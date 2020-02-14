@@ -34,6 +34,7 @@ Marketa wants you to analyze the data using tools (Pandas, xsv, Trifacta) and bu
 - Dashboards were created using Einstein Analytics for Sales Insights mainly to :
   - Predict sales with time series forecasting
   - Target customers through Email Target marketing 
+  - Target top selling vendors
   
   ![image](https://user-images.githubusercontent.com/46007043/74566156-da77b180-4f40-11ea-9432-e8262a394db7.png)
   
