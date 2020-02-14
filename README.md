@@ -45,4 +45,8 @@ Marketa wants you to analyze the data using tools (Pandas, xsv, Trifacta) and bu
   ![image (4)](https://user-images.githubusercontent.com/46007043/74571171-760e1f80-4f4b-11ea-9036-2c7295bdd7ea.png)
   
   ![image (5)](https://user-images.githubusercontent.com/46007043/74571179-77d7e300-4f4b-11ea-91c6-eb429fc92f2d.png)
+  
+  ![image (9)](https://user-images.githubusercontent.com/46007043/74574210-e9666000-4f50-11ea-8564-c78f09bfd50b.png)
+  
+  ![image (7)](https://user-images.githubusercontent.com/46007043/74574219-eec3aa80-4f50-11ea-86f9-88228ca04382.png)
 
