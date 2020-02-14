@@ -31,9 +31,10 @@ Marketa wants you to analyze the data using tools (Pandas, xsv, Trifacta) and bu
 - Exploratory Data Analysis done to find out the Big Spender and Many Orders in pandas
 - Cleaned the data using Trifacto (null values, splitting the columns, filtering data)
 - The cleaned dataset was imported to Salesforce Einstein Analytics and joined to create a dataflow
-- Dashboards were created using Einstein Analytics for
-  - Sales Insights
-  - Time series for predicting the sales
-  - Email Target marketing 
+- Dashboards were created using Einstein Analytics for Sales Insights mainly to :
+  - Predict sales with time series forecasting
+  - Target customers through Email Target marketing 
   
   ![image](https://user-images.githubusercontent.com/46007043/74566156-da77b180-4f40-11ea-9432-e8262a394db7.png)
+  
+  ![image (1)](https://user-images.githubusercontent.com/46007043/74566267-19a60280-4f41-11ea-918a-821022694482.png)
