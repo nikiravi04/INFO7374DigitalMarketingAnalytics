@@ -35,3 +35,5 @@ Marketa wants you to analyze the data using tools (Pandas, xsv, Trifacta) and bu
   - Sales Insights
   - Time series for predicting the sales
   - Email Target marketing 
+  
+  ![image](https://user-images.githubusercontent.com/46007043/74566156-da77b180-4f40-11ea-9432-e8262a394db7.png)
