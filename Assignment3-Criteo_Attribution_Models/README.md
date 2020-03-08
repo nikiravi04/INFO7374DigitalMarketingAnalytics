@@ -1,12 +1,27 @@
-# Criteo Attribution Modeling for Bidding Dataset
+# Criteo Attribution Modeling 
 
-This dataset is released along with the paper:
+Comparing 5 attribution models and which is the best model amongst the 5 models based on ROI generated
 
-"Attribution Modeling Increases Efficiency of Bidding in Display Advertising"
-**Eustache Diemert&ast;, Julien Meynet&ast; (Criteo Research), Damien Lefortier (Facebook), Pierre Galland (Criteo) &ast;authors contributed equally**
+### Assumptions made from the dataset
 
-This work was published in: 2017 AdKDD & TargetAd Workshop, in conjunction with The 23rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2017) (https://adkdd17.wixsite.com/adkddtargetad2017)
+- Every user ID has the same campaign ID which has been used for targeting
+- Each user ID has many conversion ID's
+- Each conversion ID will have a start of 0 for click_pos all the way to the click_nb value within the 30 days of impression
 
+### Attribution Models
+
+- Time-decay attribution: gives more credit to the touchpoints that are closer in time to the conversion
+- Linear attribution: gives equal credit to all touchpoints in the journey
+- U-shaped attribution: gives most of the credit to the first and last touchpoints, and some credit to intermediate touchpoints
+- First-touch attribution: gives all credit to the first touchpoint in the journey
+- Last-touch attribution : gives all credit to the last touchpoint in the journey
+
+### Insights from the models & budget optimization code
+- The results confirm that for values below the actual attribution weight (i.e weights below 1), the U-shaped and Linear attribution model shows similar and best performance for budget allocation. 
+- Whereas, for values above the actual weights (i.e weight above 1) the FTA and LTA attribution models show similar and better performance. 
+- The Time decay attribution model shows a fair performance throughout the different parameter values. 
+
+#### Citatioon 
 When using this dataset, please cite the paper with following bibtex(final ACM bibtex coming soon):
 
 ```json
@@ -20,18 +35,7 @@ year = {2017}
 }
 ```
 
-We would love to hear from you if use this data or plan to use it. Refer to the Contact section below.
-
-
-## Content of this dataset
-This dataset includes following files:
-
-  * this **README.md** 
-  * **criteo\_attribution\_dataset.tsv.gz**: the dataset itself (623M compressed)
-  * **Experiments.ipynb**: ipython notebook with code and utilities to reproduce the results in the paper. Can also be used as a starting point for further research on this data. It requires python 3.* and standard scientific libraries such as pandas, numpy and sklearn.
-
-
-## Data description
+### Data description
 This dataset represent a sample of  30 days of Criteo live traffic data.  Each line corresponds to one impression (a banner) that was displayed to a user.
 For each banner we have detailed information about the context, if it was clicked, if it led to a conversion and if it led to a conversion that was attributed to Criteo or not. Data has been sub-sampled and anonymized so as not to disclose proprietary elements.
 
@@ -59,22 +63,4 @@ Here is a detailed description of the fields (they are tab-separated in the file
   * 700 campaigns
   
   
-
-## Tasks
-This dataset can be used in a large scope of applications related to Real-Time-Bidding, including but not limited to:
-
-  * Attribution modeling: rule based, model based, etc...
-  * Conversion modeling in display advertising: the data includes cost and value used for computing Utility metrics.
-  * Offline metrics for real-time bidding
-  
-
-## Contact
-For any question, feel free to contact:
- 
- * The authors of the paper directly (emails in the paper)
- * Criteo Research team: http://research.criteo.com/contact-us/
- * Criteo Research twitter account: @CriteoResearch
-  
-## Download instructions
-   * To Download the Dataset [click here](https://s3-eu-west-1.amazonaws.com/attribution-dataset/criteo_attribution_dataset.zip)
    
