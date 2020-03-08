@@ -6,8 +6,8 @@ https://blog.griddynamics.com/cross-channel-marketing-spend-optimization-deep-le
 
 ### How to run the code
 
-- Run the notebook on google colab as the dataset is large and hence memory intensive on the RAM
-- Run the bokeh visulizations on jupyter notebook itself as there is interactivity and google colab does not work with it
+- Run the 5 models and budget optimization code on google colab as the dataset is large and hence memory intensive on the RAM
+- But run the bokeh visulizations on jupyter notebook itself as there is interactivity and google colab does not work with it
 
 ### Assumptions made from the dataset
 
@@ -53,6 +53,8 @@ year = {2017}
 ### Data description
 This dataset represent a sample of  30 days of Criteo live traffic data.  Each line corresponds to one impression (a banner) that was displayed to a user.
 For each banner we have detailed information about the context, if it was clicked, if it led to a conversion and if it led to a conversion that was attributed to Criteo or not. Data has been sub-sampled and anonymized so as not to disclose proprietary elements.
+
+** Dataset can be downloaded from the blog link**
 
 Here is a detailed description of the fields (they are tab-separated in the file):
 
