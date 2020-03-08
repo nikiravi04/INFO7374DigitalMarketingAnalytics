@@ -1,6 +1,13 @@
 # Criteo Attribution Modeling 
 
-Comparing 5 attribution models and which is the best model amongst the 5 models based on ROI generated
+Comparing 5 attribution models and which is the best model amongst the 5 models based on ROI generated based on the blog below 
+
+https://blog.griddynamics.com/cross-channel-marketing-spend-optimization-deep-learning/
+
+### How to run the code
+
+- Run the notebook on google colab as the dataset is large and hence memory intensive on the RAM
+- Run the bokeh visulizations on jupyter notebook itself as there is interactivity and google colab does not work with it
 
 ### Assumptions made from the dataset
 
@@ -20,6 +27,14 @@ Comparing 5 attribution models and which is the best model amongst the 5 models 
 - The results confirm that for values below the actual attribution weight (i.e weights below 1), the U-shaped and Linear attribution model shows similar and best performance for budget allocation. 
 - Whereas, for values above the actual weights (i.e weight above 1) the FTA and LTA attribution models show similar and better performance. 
 - The Time decay attribution model shows a fair performance throughout the different parameter values. 
+
+### Bokeh Visualizations - attribution models and budget optimization for the 5 models
+
+<img width="1015" alt="Screen Shot 2020-03-07 at 3 13 32 PM" src="https://user-images.githubusercontent.com/46007043/76164689-d3e2f100-611e-11ea-8701-522c222c84ed.png">
+
+<img width="1032" alt="Screen Shot 2020-03-07 at 3 13 09 PM" src="https://user-images.githubusercontent.com/46007043/76164691-d6dde180-611e-11ea-97d4-176eae41a2d0.png">
+
+<img width="919" alt="Screen Shot 2020-03-07 at 9 18 23 PM" src="https://user-images.githubusercontent.com/46007043/76164699-ec530b80-611e-11ea-9110-c86763e2585a.png">
 
 #### Citatioon 
 When using this dataset, please cite the paper with following bibtex(final ACM bibtex coming soon):
