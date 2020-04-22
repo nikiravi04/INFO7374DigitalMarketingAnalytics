@@ -1,0 +1,999 @@
+game,category
+VALORANT,"['Shooter', 'FPS']"
+Fortnite,['Shooter']
+Just Chatting,['IRL']
+Music & Performing Arts,"['IRL', 'Creative']"
+Call of Duty: Modern Warfare,"['FPS', 'Shooter']"
+Final Fantasy VII Remake,"['Action', 'RPG']"
+League of Legends,['MOBA']
+Animal Crossing: New Horizons,['Simulation']
+Minecraft,"['Adventure Game', 'Action']"
+Apex Legends,"['FPS', 'Shooter']"
+Overwatch,"['FPS', 'Shooter', 'MOBA']"
+Tom Clancy's Rainbow Six: Siege,"['FPS', 'Shooter']"
+Counter-Strike: Global Offensive,"['FPS', 'Shooter']"
+World of Warcraft,"['MMORPG', 'RPG']"
+Escape From Tarkov,"['Simulation', 'FPS']"
+Art,['Creative']
+Grand Theft Auto V,['Driving/Racing Game']
+Resident Evil 3,"['Action', 'Adventure Game']"
+ROBLOX,"['MMORPG', 'RPG']"
+Dead by Daylight,"['Action', 'Horror']"
+Rocket League,['Driving/Racing Game']
+NBA 2K20,"['Sports Game', 'Simulation']"
+Talk Shows & Podcasts,['IRL']
+Madden NFL 20,['Sports Game']
+Mount & Blade II: Bannerlord,"['Action', 'Adventure Game']"
+MLB The Show 20,['Sports Game']
+Super Smash Bros. Ultimate,"['Fighting', 'Platformer']"
+VRChat,"['Simulation', 'RPG']"
+The Sims 4,['Simulation']
+Teamfight Tactics,"['Strategy', 'Autobattler']"
+Risk of Rain 2,"['Action', 'Indie Game']"
+Marbles On Stream,['NONE']
+Sports & Fitness,['IRL']
+Hearthstone,['Card & Board Game']
+Destiny 2,"['FPS', 'Shooter', 'RPG']"
+Old School RuneScape,['MMORPG']
+Doom Eternal,"['FPS', 'Shooter', 'Horror']"
+The Jackbox Party Pack 3,['Card & Board Game']
+The Jackbox Party Pack 6,['Card & Board Game']
+Science & Technology,"['IRL', 'Creative']"
+Poker,['Card & Board Game']
+Dota 2,['MOBA']
+Dungeons & Dragons,['NONE']
+PLAYERUNKNOWN'S BATTLEGROUNDS,"['Shooter', 'FPS']"
+Persona 5: The Royal,['RPG']
+Pokémon Sword/Shield,['RPG']
+Last Oasis,"['MMORPG', 'RPG']"
+Super Mario Maker 2,['Platformer']
+Magic: The Gathering,['Card & Board Game']
+Dark Souls,"['RPG', 'Action', 'Horror']"
+ASMR,['IRL']
+Rust,"['Action', 'Adventure Game']"
+Games + Demos,"['Compilation', 'Puzzle']"
+Chess,['Card & Board Game']
+osu!,['Rhythm & Music Game']
+Path of Exile,"['Action', 'RPG']"
+Subnautica,['Adventure Game']
+Dark Souls III,"['RPG', 'Action']"
+Pummel Party,['Action']
+Sea of Thieves,"['Action', 'Adventure Game']"
+Krunker,"['FPS', 'Shooter', 'Action']"
+FINAL FANTASY XIV Online,['MMORPG']
+Mario Kart 8,['Driving/Racing Game']
+NCAA Football 14,['Sports Game']
+Super Mario 64,['NONE']
+Beat Saber,['Rhythm & Music Game']
+Slots,['Gambling Game']
+ARK,"['Action', 'Adventure Game']"
+FIFA 20,['Sports Game']
+Deadside,"['Action', 'RPG']"
+Retro,"['Action', 'Shooter']"
+iRacing.com,['Driving/Racing Game']
+Monster Hunter World,"['Action', 'RPG']"
+Fallout 76,"['RPG', 'Shooter']"
+Food & Drink,"['Creative', 'IRL']"
+StarCraft II,"['RTS', 'Strategy']"
+RimWorld,"['Strategy', 'Simulation']"
+The Legend of Zelda: Breath of the Wild,"['Action', 'Adventure Game']"
+Minecraft Dungeons,"['RPG', 'Action']"
+Warcraft III,"['Strategy', 'RTS']"
+Final Fantasy VII,['RPG']
+Borderlands 3,"['RPG', 'FPS', 'Shooter']"
+The Elder Scrolls Online,"['MMORPG', 'Stealth']"
+Halo: The Master Chief Collection,"['Compilation', 'FPS']"
+Smite,['MOBA']
+Red Dead Redemption 2,"['Action', 'Open World']"
+Call of Duty: Black Ops III,"['FPS', 'Shooter']"
+Warframe,"['Shooter', 'Action']"
+Golf It!,['Sports Game']
+The Elder Scrolls V: Skyrim,"['RPG', 'Open World']"
+Stardew Valley,"['Action', 'RPG']"
+Call of Duty: Black Ops 4,"['FPS', 'Shooter']"
+Team Fortress 2,"['Shooter', 'Action', 'FPS']"
+1v1.lol,"['Simulation', 'Shooter']"
+Griftlands,"['RPG', 'Indie Game']"
+Resident Evil 2,"['Shooter', 'Action']"
+World of Warships,"['Action', 'Simulation']"
+GTFO,"['Action', 'Horror']"
+God of War,"['Action', 'Adventure Game']"
+Slay the Spire,['Strategy']
+Garena Free Fire,"['Shooter', 'Strategy']"
+Bloodborne,"['RPG', 'Action']"
+Super Mario Galaxy,['Platformer']
+Subnautica: Below Zero,['Adventure Game']
+Tibia,"['Adventure Game', 'RPG']"
+Black Desert Online,"['MMORPG', 'RPG']"
+Heroes of the Storm,['MOBA']
+Supraland,"['Action', 'Adventure Game']"
+Sonic Adventure 2: Battle,"['Action', 'Adventure Game']"
+Pokémon HeartGold/SoulSilver,['RPG']
+Street Fighter V,['Fighting']
+MapleStory,"['Action', 'Adventure Game']"
+Yu-Gi-Oh! Duel Links,['Card & Board Game']
+Saint Seiya: Awakening,"['RPG', 'Mobile Game']"
+The Witcher 3: Wild Hunt,"['RPG', 'Action']"
+Dofus,['MMORPG']
+Dishonored 2,"['Action', 'Stealth']"
+Diablo II: Lord of Destruction,"['Action', 'RPG']"
+Gears 5,['Action']
+Warzone,"['Action', 'Shooter']"
+Tabletop Simulator,"['Strategy', 'Simulation']"
+Tutti Frutti,['Action']
+Hunt: Showdown,"['Action', 'Horror']"
+Paladins,"['Shooter', 'FPS']"
+The Forest,"['Action', 'Adventure Game']"
+Destiny,"['FPS', 'Shooter']"
+PUBG MOBILE,"['Action', 'Shooter', 'FPS']"
+NBA 2K19,['Sports Game']
+RuneScape,"['MMORPG', 'RPG']"
+Bully: Scholarship Edition,"['Action', 'Stealth']"
+DayZ,"['RPG', 'Simulation']"
+World of Tanks,"['Simulation', 'Action']"
+Summoners War: Sky Arena,"['RPG', 'Mobile Game']"
+Albion Online,['MMORPG']
+Age of Empires II: Definitive Edition,['Strategy']
+Tekken 7,['Fighting']
+Diablo III: Reaper of Souls,"['Strategy', 'RPG']"
+M.U.G.E.N,"['Fighting', 'Horror']"
+Super Mario World,['Platformer']
+Tom Clancy's The Division 2,"['RPG', 'Shooter']"
+Garry's Mod,"['FPS', 'Shooter']"
+Legends of Runeterra,['Card & Board Game']
+Guilty Gear Xrd REV 2,['Fighting']
+Trover Saves the Universe,['NONE']
+Hand of Fate 2,['RPG']
+Monopoly,['Strategy']
+Mortal Kombat 11,['Fighting']
+The Seven Deadly Sins: Hikari to Yami no Grand Cross,"['RPG', 'Mobile Game']"
+Don't Starve Together,"['Action', 'Roguelike']"
+Star Citizen,"['Shooter', 'Action']"
+Golf With Your Friends,"['Sports Game', 'Horror']"
+Brawlhalla,['Fighting']
+Lineage II,"['RPG', 'MMORPG']"
+Nioh 2,"['Action', 'RPG']"
+Mahjong,['Card & Board Game']
+Pokémon Go,"['Simulation', 'RPG']"
+Five Nights at Freddy's 3,"['Adventure Game', 'Horror']"
+Terraria,"['Platformer', 'Action']"
+Sekiro: Shadows Die Twice,"['Action', 'Adventure Game']"
+Hollow Knight,"['Platformer', 'Action']"
+American Truck Simulator,['Driving/Racing Game']
+7 Days to Die,"['Simulation', 'FPS']"
+Clash Royale,"['Strategy', 'RTS']"
+Battlefield V,"['Action', 'FPS', 'Shooter']"
+NHL 20,['Sports Game']
+My Summer Car,['Driving/Racing Game']
+Super Metroid,"['Action', 'Metroidvania']"
+Geometry Dash,['Rhythm & Music Game']
+Friday the 13th: The Game,"['Action', 'Horror']"
+Knight Online,['MMORPG']
+Conan Exiles,"['Action', 'RPG']"
+Raid: Shadow Legends,"['Strategy', 'RPG']"
+Green Hell,['Adventure Game']
+Assassin's Creed Odyssey,['NONE']
+FIFA 17,['NONE']
+The Legend of Zelda: Ocarina of Time,"['Action', 'Adventure Game']"
+Lone Survivor,"['Action', 'Horror']"
+Arknights,"['Strategy', 'Mobile Game']"
+Monster Hunter Generations Ultimate,"['Action', 'RPG']"
+Fate/Grand Order,['Card & Board Game']
+Lineage: The Blood Pledge,"['Adventure Game', 'RPG']"
+Undertale,['RPG']
+Pokémon Black/White,['RPG']
+Phantasy Star Online 2,"['Action', 'RPG']"
+NHL 17,['Sports Game']
+Guild Wars 2,"['MMORPG', 'RPG']"
+Granblue Fantasy: Versus,['Fighting']
+Satisfactory,"['Action', 'Adventure Game']"
+Granblue Fantasy,['RPG']
+The Legend of Zelda: A Link to the Past,"['Action', 'Adventure Game']"
+Splatoon 2,"['Shooter', 'Platformer']"
+Stoneshard,['RPG']
+Farming Simulator 19,"['Simulation', 'Open World']"
+Stellaris,['Strategy']
+Dragon Quest VIII: Journey of the Cursed King,['Strategy']
+Super Mario Bros. 3,['Platformer']
+Wii Sports Resort,['Sports Game']
+Sally Face,"['Adventure Game', 'Horror']"
+Brawl Stars,"['Action', 'Shooter']"
+Dragon Ball FighterZ,['Fighting']
+Stream Raiders,['NONE']
+Pokémon Trading Card Game,"['RPG', 'Simulation']"
+Dreams,['NONE']
+Halo 5: Guardians,"['FPS', 'Shooter']"
+Twitch Sings,['Rhythm & Music Game']
+Makers & Crafting,"['Creative', 'IRL']"
+Infestation: The New Z,"['FPS', 'Shooter', 'Action']"
+Dauntless,"['Action', 'Adventure Game']"
+Quake Champions,"['FPS', 'Shooter']"
+Metin 2,"['MMORPG', 'Action']"
+Lost Ark Online,['MMORPG']
+World War Z,['Action']
+Paper Mario,['RPG']
+EVE Online,"['Simulation', 'MMORPG']"
+Sid Meier's Civilization V,"['Strategy', 'Point and Click']"
+One Piece Treasure Cruise,"['RPG', 'Mobile Game']"
+They Are Billions,['RTS']
+Resident Evil HD Remaster,['Horror']
+XCOM 2: War of the Chosen,['Strategy']
+Pokémon FireRed/LeafGreen,"['Strategy', 'RPG']"
+Ragnarok Online,"['RPG', 'MMORPG']"
+Dead Space,"['Action', 'Horror']"
+Realm Royale,"['Action', 'Shooter']"
+Uncharted 4: A Thief's End,"['Action', 'Shooter']"
+War Thunder,"['Action', 'MMORPG']"
+Watch Parties,['NONE']
+The Jackbox Party Pack 4,['Card & Board Game']
+Goof Troop,"['Puzzle', 'Action']"
+Outlast,"['Adventure Game', 'Horror']"
+Kingdom Two Crowns,"['Strategy', 'Simulation']"
+Mobile Legends: Bang bang,"['Strategy', 'RTS']"
+No Man's Sky,"['Simulation', 'Action']"
+The Binding of Isaac: Afterbirth,['Roguelike']
+Elite: Dangerous,['Simulation']
+Mu Online,['MMORPG']
+Gwent: The Witcher Card Game,['Card & Board Game']
+Super Mario Sunshine,"['Platformer', 'Action']"
+Darkest Dungeon,"['RPG', 'Indie Game']"
+Euro Truck Simulator 2,['Driving/Racing Game']
+Cities: Skylines,['Simulation']
+Black Mesa,"['FPS', 'Shooter']"
+Fallout 4,"['RPG', 'Shooter']"
+Call of Duty: Mobile,"['FPS', 'Shooter']"
+Totally Reliable Delivery Service,"['Action', 'Simulation']"
+Crypto,['Action']
+Mystery Science Theater 3000,['NONE']
+Ori and the Will of the Wisps,"['Platformer', 'Metroidvania']"
+Call of Duty: Black Ops II,"['RTS', 'FPS', 'Shooter']"
+Left 4 Dead 2,"['FPS', 'Shooter', 'Horror']"
+Codenames,['Card & Board Game']
+Danganronpa: Trigger Happy Havoc,['Adventure Game']
+Dungeon Fighter Online,"['Action', 'MMORPG']"
+Wizard101,"['MMORPG', 'RPG']"
+Resident Evil 7 biohazard,"['Action', 'Horror']"
+Final Fantasy,"['RPG', 'Open World']"
+Tabletop RPGs,['RPG']
+Heroes of Newerth,"['MOBA', 'Stealth']"
+SpongeBob SquarePants: Battle for Bikini Bottom,"['Action', 'Platformer']"
+Star Wars Jedi: Fallen Order,"['Action', 'Adventure Game']"
+Chroma Squad,"['Simulation', 'Strategy']"
+Super Mario Odyssey,['Platformer']
+The Last of Us,"['Shooter', 'Action']"
+Banjo-Kazooie,"['Action', 'Adventure Game']"
+Fallout: New Vegas,"['RPG', 'FPS', 'Shooter']"
+Space Engineers,"['Action', 'Simulation']"
+Star Wars Battlefront II,"['Action', 'FPS', 'Shooter']"
+Alan Wake,"['Action', 'Shooter']"
+Portal 2,"['Puzzle', 'FPS', 'Shooter']"
+Kartrider,['Driving/Racing Game']
+FTL: Faster Than Light,"['Strategy', 'RPG']"
+Yu-Gi-Oh! TRADING CARD GAME,['NONE']
+Go,['Card & Board Game']
+Dragon Ball Z: Kakarot,"['Action', 'RPG']"
+For Honor,"['Action', 'Fighting']"
+Modern Warfare 2,"['FPS', 'Shooter']"
+Travel & Outdoors,['IRL']
+Minion Masters,"['Strategy', 'RTS']"
+Spellbreak,['Action']
+Resident Evil 4,"['Shooter', 'Action']"
+Forza Horizon 4,['Driving/Racing Game']
+Super Smash Bros. Melee,"['Fighting', 'Action']"
+Arma 3,"['Simulation', 'FPS']"
+Football Manager 2020,"['Simulation', 'Sports Game']"
+Hearts of Iron IV,['Strategy']
+Clash of Clans,"['RTS', 'Mobile Game']"
+EverQuest,"['MMORPG', 'Stealth']"
+Detroit: Become Human,['Adventure Game']
+Planet Zoo,"['Strategy', 'Simulation']"
+Star Wars: Galaxy of Heroes,"['MMORPG', 'Mobile Game']"
+Dirt Rally 2.0,['Driving/Racing Game']
+Danganronpa V3: Killing Harmony,['Adventure Game']
+Pokémon Black/White Version 2,"['RPG', 'Action']"
+Dragon Ball Z: Budokai Tenkaichi 3,['Fighting']
+F1 2019,['Driving/Racing Game']
+Uno,['Card & Board Game']
+Silent Hill,"['Action', 'Horror']"
+Alder's Blood,['Strategy']
+Marvel Strike Force,"['RPG', 'Mobile Game']"
+One Step from Eden,['Action']
+Xenoblade Chronicles X,"['Action', 'RPG']"
+Super Mario Bros.,['Platformer']
+Nioh,"['Action', 'RPG']"
+Black Desert Mobile,"['MMORPG', 'Mobile Game']"
+The Isle,"['Strategy', 'Simulation']"
+Half-Life: Alyx,"['FPS', 'Shooter', 'Horror']"
+Alien: Isolation,"['Action', 'Horror']"
+Mario Kart Wii,['Driving/Racing Game']
+Dark Souls II: Scholar of the First Sin,"['RPG', 'Action']"
+Doom,"['Shooter', 'FPS', 'Horror']"
+Hyperdimension Neptunia Re;Birth1,['RPG']
+I Wanna Be The Guy,"['Puzzle', 'Platformer']"
+Star Wars: The Old Republic,['MMORPG']
+The Jackbox Party Pack 5,['Compilation']
+Slender: The Arrival,"['Adventure Game', 'Horror']"
+Crash Bandicoot: The Wrath of Cortex,"['Action', 'Platformer']"
+Jump King,['Platformer']
+Grand Theft Auto: San Andreas,"['Action', 'Stealth']"
+Virtual Casino,['Card & Board Game']
+Monopoly Plus,['Card & Board Game']
+Divinity: Original Sin II,"['RPG', 'Indie Game']"
+Ring Fit Adventure,['RPG']
+Final Fantasy Tactics,"['Strategy', 'RPG']"
+King's Bounty: Crossworlds,['RPG']
+Dying Light,"['Shooter', 'Action']"
+Cuphead,"['Action', 'Platformer']"
+Russian Fishing 4,['Sports Game']
+Warhammer Online: Age of Reckoning,['MMORPG']
+Arena of Valor,"['MOBA', 'Mobile Game']"
+Subsistence,"['Action', 'Adventure Game']"
+Celeste,"['Platformer', 'Indie Game']"
+Final Fantasy VIII,"['RPG', 'Stealth']"
+Warhammer: Vermintide 2,"['Action', 'FPS', 'Shooter']"
+StarCraft,"['RTS', 'Strategy']"
+Raft,['Adventure Game']
+Outlast 2,"['Horror', 'Adventure Game']"
+Vindictus,"['MMORPG', 'Action']"
+Eternal,['Card & Board Game']
+Call of Duty: Black Ops,"['Shooter', 'FPS']"
+Mega Man Legends 2,"['RPG', 'Action']"
+Dead Cells,"['Platformer', 'Action']"
+The Legend of Zelda: Majora's Mask,"['Action', 'Adventure Game']"
+Marvel's Spider-Man,"['Action', 'Open World']"
+Neverwinter,"['Action', 'MMORPG']"
+Realm of the Mad God,"['MMORPG', ""Shoot 'Em Up""]"
+ATLAS,"['Survival', 'MMORPG']"
+The Legend of Zelda,"['Action', 'Adventure Game']"
+Tony Hawk's Underground,['Sports Game']
+Langrisser Mobile,"['RPG', 'MOBA']"
+Twitch Plays,['NONE']
+Code Vein,"['Action', 'RPG', 'Horror']"
+Resident Evil 5,"['Action', 'Shooter']"
+Club Penguin Rewritten,"['MMORPG', 'RPG']"
+The Jackbox Party Pack,['Card & Board Game']
+Yakuza 0,"['RPG', 'Simulation']"
+Final Fantasy X/X-2 HD Remaster,"['Compilation', 'RPG']"
+Yu-Gi-Oh! Forbidden Memories,"['Strategy', 'RPG']"
+Microsoft Flight Simulator X,['Flight Simulator']
+Conqueror's Blade,"['RPG', 'Action']"
+Battlefield 1,"['FPS', 'Shooter']"
+State of Decay 2,"['Action', 'Open World']"
+WWE 2K20,['Sports Game']
+skribbl.io,['NONE']
+Dark Souls II,"['RPG', 'Action']"
+Dragon Quest IV: Chapters of the Chosen,['RPG']
+L.A. Noire,"['Shooter', 'Action']"
+Slime Rancher,"['Adventure Game', 'FPS']"
+Rocksmith 2014,['Educational Game']
+Call of Cthulhu - The Video Game,"['RPG', 'Horror']"
+Far Cry 5,"['FPS', 'Shooter']"
+Cyphers Online,"['Action', 'MOBA']"
+Politics,['IRL']
+Always On,['NONE']
+Pokémon Trading Card Game Online,['Adventure Game']
+Blade and Soul,['MMORPG']
+War of the Visions,"['RPG', 'Mobile Game']"
+Company of Heroes 2,"['RTS', 'Strategy']"
+Hellblade,"['Action', 'Adventure Game']"
+Main Assembly,['NONE']
+Battle Brothers,"['Strategy', 'RPG']"
+Until Dawn,"['Adventure Game', 'Horror']"
+Ori and the Blind Forest,"['Puzzle', 'Platformer']"
+Death Stranding,"['Adventure Game', 'Action']"
+Deep Rock Galactic,"['FPS', 'Shooter']"
+Special Events,['IRL']
+Telling Lies,['Adventure Game']
+PlanetSide 2,"['Action', 'MMORPG']"
+Pokémon Platinum,"['Adventure Game', 'RPG']"
+Samurai Shodown,['Fighting']
+Super Smash Bros. Brawl,"['Action', 'Fighting']"
+Soulcalibur VI,['Fighting']
+Temtem,"['Adventure Game', 'RPG']"
+Factorio,"['Strategy', 'Simulation']"
+Kingdom Hearts HD I.5 + II.5 Remix,"['Action', 'RPG']"
+CyClones,"['Shooter', 'Action', 'FPS']"
+The Walking Dead: The Telltale Definitive Series,['Adventure Game']
+Sherlock Holmes: Crimes and Punishments,['Adventure Game']
+Identity V,"['Action', 'Horror']"
+Final Fantasy XI Online,"['MMORPG', 'Open World']"
+Battlefield 4,"['FPS', 'Shooter']"
+Call of Duty: WWII,"['FPS', 'Shooter']"
+Mabinogi,"['MMORPG', 'RPG']"
+Call of Duty 4: Modern Warfare,"['FPS', 'Shooter']"
+Fishing Planet,"['Sports Game', 'Simulation']"
+Wrestling,['NONE']
+Streamer Daily,"['Simulation', 'Compilation']"
+DJMAX Respect V,['Rhythm & Music Game']
+Tetris,['Puzzle']
+Life Is Strange,['Adventure Game']
+Crash Team Racing: Nitro Fueled,['Driving/Racing Game']
+DCS World,['Simulation']
+Payday 2,"['FPS', 'Shooter']"
+Uncharted: The Nathan Drake Collection,"['Compilation', 'Action']"
+Music Escape,['NONE']
+A Way Out,"['Action', 'Adventure Game']"
+Just Dance 2020,['Rhythm & Music Game']
+A Plague Tale: Innocence,"['Action', 'Adventure Game']"
+SCUM,"['Simulation', 'Open World']"
+GuJian,['NONE']
+Killer Instinct,['Fighting']
+Pacify,['Strategy']
+The Long Dark,['Adventure Game']
+Borderlands 2,"['RPG', 'FPS', 'Shooter']"
+theHunter: Call of the Wild,"['Simulation', 'Open World']"
+APB Reloaded,"['Shooter', 'Action']"
+Fire Emblem: Three Houses,"['Strategy', 'RPG']"
+Metro Exodus,"['FPS', 'Shooter']"
+Mega Man X2,"['Action', 'Platformer']"
+GeoGuessr,['Educational Game']
+Visage,"['Adventure Game', 'Puzzle']"
+Medivia Online,"['Adventure Game', 'RPG']"
+Tetris 99,['Puzzle']
+Life Is Strange 2,['Adventure Game']
+Dota Underlords,"['Strategy', 'Autobattler']"
+Doki Doki Literature Club,"['Adventure Game', 'Horror']"
+BlazBlue Cross Tag Battle,['Fighting']
+Half-Life: Counter-Strike,"['Action', 'FPS', 'Shooter']"
+Hyper Light Drifter,"['Action', 'RPG']"
+Tomb Raider,"['Platformer', 'Action']"
+The Jackbox Party Pack 2,['Card & Board Game']
+Mythic Ocean,['Adventure Game']
+Kingdom Hearts HD II.8: Final Chapter Prologue,"['RPG', 'Compilation']"
+Mass Effect 3,"['RPG', 'Shooter']"
+Astroneer,['Adventure Game']
+Mafia III,['Driving/Racing Game']
+Others,['NONE']
+Vigor,['Shooter']
+The Urbz: Sims in the City,"['Simulation', 'Strategy']"
+Sid Meier's Civilization VI,['Strategy']
+Toontown Online,"['MMORPG', 'Compilation']"
+Naruto Shippuden: Ultimate Ninja Storm 4,['Fighting']
+BioShock,"['FPS', 'Shooter', 'Action']"
+Kingdom Hearts: Birth by Sleep,"['RPG', 'Action']"
+Titanfall 2,"['FPS', 'Shooter']"
+Dragon Warrior III,"['RPG', 'Open World']"
+CABAL Online,"['MMORPG', 'Action']"
+DragonBall Z: Dokkan Battle,['Mobile Game']
+Sonic the Hedgehog 2,"['Action', 'Platformer']"
+Oxygen Not Included,['Simulation']
+Last Day On Earth: Survival,"['Simulation', 'Horror']"
+Tera,"['MMORPG', 'Open World']"
+Gothic II: Night of the Raven,"['Action', 'Strategy']"
+Squad,"['Action', 'FPS', 'Shooter']"
+Bloons TD 6,"['Strategy', 'Mobile Game']"
+The Legend of Zelda: Twilight Princess HD,"['Action', 'Adventure Game']"
+Control,"['Action', 'Shooter']"
+Pokémon Crystal,['RPG']
+Serious Sam HD: The First Encounter,['NONE']
+Bless Unleashed,"['MMORPG', 'RPG']"
+BioShock Infinite,"['FPS', 'Shooter', 'Action']"
+Pokémon Emerald,"['RPG', 'Adventure Game']"
+AFL Evolution 2,['Sports Game']
+Crash Bandicoot: N. Sane Trilogy,"['Compilation', 'Platformer']"
+Call of Duty: Modern Warfare Remastered,['NONE']
+Sonic the Hedgehog,['Educational Game']
+Town of Salem,"['Strategy', 'RTS']"
+The Lord of the Rings Online,['MMORPG']
+Ultima Online,['MMORPG']
+Deal or No Deal,['Strategy']
+The Golf Club 2019 Featuring PGA Tour,['Sports Game']
+Under Night In-Birth Exe:Late[cl-r],['Fighting']
+zombsroyale.io,"['RTS', 'Action']"
+Chrono Trigger,"['RPG', 'Open World']"
+Five Nights at Freddy's,['Strategy']
+Drawful 2,['Card & Board Game']
+Card Game,['Card & Board Game']
+We Happy Few,"['Adventure Game', 'FPS']"
+Darwin Project,"['Action', 'Shooter']"
+Night in the Woods,['Adventure Game']
+Project Resistance,"['Action', 'Horror']"
+Void Bastards,"['Strategy', 'Action']"
+Total War: Warhammer II,"['Strategy', 'RTS']"
+Elsword,"['MMORPG', 'Action']"
+Tetris Effect,['Puzzle']
+Azur Lane,"[""Shoot 'Em Up""]"
+Deceit,"['Shooter', 'Action', 'FPS']"
+Final Fantasy XV,"['Action', 'RPG', 'Stealth']"
+Overcooked! 2,"['Simulation', 'Strategy']"
+Mobile Suit Gundam: Battle Operation 2,['Action']
+Rock Band 4,['Rhythm & Music Game']
+Alice: Madness Returns,"['Platformer', 'Action']"
+Days Gone,"['Action', 'Open World']"
+CrownTrick,"['Action', 'Adventure Game']"
+Calibria: Crystal Guardians,"['RPG', 'Mobile Game']"
+Assassin's Creed II,"['Platformer', 'Action']"
+Virtual Battlegrounds,['NONE']
+Getting Over It,['NONE']
+Hitman 2,['NONE']
+Sly Cooper and the Thievius Raccoonus,"['Platformer', 'Stealth']"
+EarthBound,"['Adventure Game', 'RPG']"
+Pokémon Mystery Dungeon: Rescue Team DX,"['RTS', 'Roguelike', 'RPG']"
+Trove,"['Action', 'Adventure Game']"
+Shell Shockers,"['Action', 'Shooter', 'FPS']"
+The Evil Within,"['Shooter', 'Horror']"
+Journey,['Adventure Game']
+Mass Effect,"['RPG', 'Shooter']"
+Hand Simulator,['Simulation']
+Basic Programming,['Educational Game']
+Pinball,['Pinball']
+DC Universe Online,"['Action', 'MMORPG']"
+Noita,"['Platformer', 'Action']"
+Quiplash,['Card & Board Game']
+SCP: Secret Laboratory,"['Action', 'Horror']"
+Max Payne,"['Shooter', 'Action']"
+The Legend of Dragoon,['RPG']
+RPG Maker,['RPG']
+My Hero One's Justice 2,['Fighting']
+Gartic,['Card & Board Game']
+Pokémon Snap,['Simulation']
+WWE 2K19,['Sports Game']
+MudRunner,['Driving/Racing Game']
+House Flipper,['Simulation']
+Drug Dealer Simulator,['NONE']
+MechWarrior Online,"['Action', 'Simulation']"
+The Crew 2,['Driving/Racing Game']
+Cooking Mama: Cookstar,['Simulation']
+Assetto Corsa,['Driving/Racing Game']
+What Remains of Edith Finch,"['Adventure Game', 'Puzzle']"
+Rise of the Tomb Raider,"['Shooter', 'Action']"
+Killing Floor 2,"['FPS', 'Shooter', 'Horror']"
+Super Mario Bros.: The Lost Levels,['Platformer']
+Aion,['MMORPG']
+Tom Clancy's The Division,"['RPG', 'Shooter']"
+Octopath Traveler,['RPG']
+Enter the Gungeon,"['RPG', 'Shooter']"
+Spyro Reignited Trilogy,"['Compilation', 'Platformer']"
+Blood Bowl 2,"['Sports Game', 'Strategy']"
+EA Sports UFC 3,"['Fighting', 'Sports Game']"
+Bleeding Edge,['Action']
+Final Fantasy IX,['RPG']
+Tom Clancy's Ghost Recon Breakpoint,['NONE']
+Unreal Tournament,"['FPS', 'Shooter']"
+Age of Empires III: The Asian Dynasties,"['Simulation', 'RTS']"
+The Outer Worlds,"['RPG', 'FPS', 'Shooter']"
+Yakuza 6: The Song of Life,"['RPG', 'Action']"
+Warhammer,['NONE']
+Board Games,['Card & Board Game']
+Fire Emblem: Fuuin no Tsurugi,"['Strategy', 'RPG']"
+Guitar Hero III: Legends of Rock,['Simulation']
+The Walking Dead: A New Frontier,"['Adventure Game', 'Horror']"
+EverQuest II,['MMORPG']
+Gran Turismo Sport,['Driving/Racing Game']
+BioShock: The Collection,"['Compilation', 'FPS']"
+Shadow of the Tomb Raider,"['Action', 'Adventure Game']"
+Heroes of Might and Magic III: The Shadow of Death,"['RPG', 'Strategy']"
+South Park: The Fractured But Whole,['RPG']
+Resident Evil Zero,"['Action', 'Horror']"
+Blair Witch,"['Adventure Game', 'Horror']"
+Need for Speed Heat,['Driving/Racing Game']
+Bloodstained: Ritual of the Night,"['Action', 'Horror']"
+Everybody's Golf,['Sports Game']
+A Township Tale,['NONE']
+Remnant: From the Ashes,"['Action', 'Shooter']"
+Final Fantasy XIII,['RPG']
+Kingdom Hearts III,"['Action', 'RPG']"
+eFootball PES 2020,['Sports Game']
+Duke Nukem Forever,"['FPS', 'Shooter']"
+Transistor,"['Action', 'Strategy']"
+Trials Rising,['Driving/Racing Game']
+Monster Hunter 4 Ultimate,"['Action', 'RPG']"
+Dead Space 2,"['Action', 'Shooter']"
+Dragon Quest Builders 2,"['Adventure Game', 'RPG']"
+Final Fantasy IV,['RPG']
+World of Tanks Console,['NONE']
+Castlevania: Symphony of the Night,"['Action', 'RPG']"
+Girls Frontline,"['RTS', 'Action', 'Shooter']"
+Human: Fall Flat,"['Puzzle', 'Indie Game']"
+Blackjack,['NONE']
+Crisis Core: Final Fantasy VII,"['Action', 'RPG']"
+Yakuza Kiwami 2,"['Action', 'Adventure Game']"
+Horizon Zero Dawn,"['RPG', 'Shooter']"
+One Piece: Pirate Warriors 4,['Action']
+Mafia LIVE!,"['RPG', 'RTS']"
+Hades,['Action']
+Bloodstone Online: The Ancient Curse,['MMORPG']
+Tower Unite,['Compilation']
+Mordhau,"['Fighting', 'Indie Game']"
+Words On Stream,['NONE']
+Warface,"['Action', 'FPS', 'Shooter']"
+The Legend of Zelda: Link's Awakening,"['Action', 'Adventure Game']"
+Chrono Cross,"['RPG', 'Stealth']"
+Puyo Puyo Tetris,['Puzzle']
+Mass Effect 2,"['RPG', 'Action']"
+NASCAR Heat 4,['Driving/Racing Game']
+Industries of Titan,"['Strategy', 'Simulation']"
+Tales Runner,['Driving/Racing Game']
+Batman: Arkham Knight,"['Action', 'Open World']"
+Mutant Year Zero: Road to Eden,"['Strategy', 'Stealth']"
+Vampire: The Masquerade - Bloodlines,"['Action', 'RPG', 'FPS']"
+Age of Mythology,"['Strategy', 'RTS']"
+The Witcher,"['Action', 'RPG']"
+Grand Theft Auto,['Action']
+Last Epoch,"['Action', 'RPG']"
+Amnesia: The Dark Descent,"['Puzzle', 'Adventure Game']"
+Luigi's Mansion 3,"['Horror', 'Adventure Game']"
+Epic Seven,"['RPG', 'Mobile Game']"
+Shadow of the Colossus,"['Action', 'Adventure Game']"
+Cyber Hunter,"['Action', 'Shooter', 'FPS']"
+Gary Grigsby's War in the Pacific,"['Simulation', 'Strategy']"
+Honkai Impact 3,"['Action', 'Mobile Game']"
+DJ Life,['Rhythm & Music Game']
+My Time at Portia,"['RPG', 'Simulation']"
+Persona 5,"['RPG', 'Stealth']"
+Jump Force,"['Fighting', 'RPG']"
+Operation 7,"['FPS', 'Shooter']"
+Cookie Run: OvenBreak,['Platformer']
+Pathfinder,['NONE']
+Assassin's Creed IV: Black Flag,"['Platformer', 'Action']"
+City of Heroes,['MMORPG']
+The Dark Pictures Anthology: Man of Medan,"['Adventure Game', 'Horror']"
+Awesomenauts,"['Platformer', 'MOBA']"
+Xenoblade Chronicles 2,"['RPG', 'Action']"
+Banjo-Tooie,"['Action', 'Platformer']"
+Point Blank,"['Shooter', 'FPS']"
+Jak and Daxter: The Precursor Legacy,"['Platformer', 'Open World']"
+Shovel Knight,"['Platformer', 'Action']"
+Gang Beasts,"['Action', 'Indie Game']"
+Habbo Hotel,"['Simulation', 'MMORPG']"
+surviv.io,"['MOBA', 'Action']"
+Arizona Sunshine,"['FPS', 'Shooter', 'Horror']"
+CJ: Elephant Fugitive,['Platformer']
+Naruto to Boruto: Shinobi Striker,['Fighting']
+For the King,"['Strategy', 'RPG']"
+Perfect World,"['RPG', 'MMORPG']"
+Biped,"['Action', 'Adventure Game']"
+Europa Universalis IV,['Strategy']
+Middle-earth: Shadow of War,"['Action', 'Stealth']"
+Sherlock Holmes: The Devil's Daughter,"['Action', 'Adventure Game']"
+Dragon Age: Origins,"['RPG', 'Open World']"
+Beauty & Body Art,"['Creative', 'IRL']"
+Ultimate Chicken Horse,"['Platformer', 'Indie Game']"
+Blur,['Sports Game']
+Kingdom Come: Deliverance,"['RPG', 'Action']"
+Model Builder,['NONE']
+Use Your Words,['Compilation']
+Graveyard Keeper,"['Adventure Game', 'RPG']"
+X-Plane 11,['Simulation']
+Half-Life,"['FPS', 'Shooter', 'Horror']"
+Dragon Quest XI,['RPG']
+World of Warships: Legends,"['MMORPG', 'RPG']"
+Resident Evil 6,"['Action', 'Shooter']"
+SOMA,"['Adventure Game', 'Horror']"
+Command & Conquer: Rivals,"['Strategy', 'Mobile Game']"
+Total War: Three Kingdoms,['Strategy']
+Etterna,['Rhythm & Music Game']
+Kerbal Space Program,['Flight Simulator']
+Entropia Universe,"['MMORPG', 'FPS']"
+Castle Crashers,"['Action', 'Indie Game']"
+Mario Party 4,['Compilation']
+Astral Chain,['Action']
+"Pokemon: Let's Go, Pikachu!/Eevee!",['RPG']
+Layers of Fear,"['Adventure Game', 'Horror']"
+Majotori,['Adventure Game']
+Metal Gear Solid V: The Phantom Pain,"['Shooter', 'Action']"
+Ultra Street Fighter IV,['Fighting']
+Emily Wants to Play,"['Action', 'Horror']"
+Business Tour,['RTS']
+Yume Nikki: Dream Diary,"['Horror', 'Adventure Game']"
+A Dance of Fire and Ice,['Puzzle']
+Dino Crisis,"['Action', 'Horror']"
+Super Mario Kart,['Driving/Racing Game']
+Final Fantasy: Brave Exvius,"['RPG', 'Mobile Game']"
+Broken Picturephone,['NONE']
+Puzzle Pirates,"['RPG', 'MMORPG']"
+Super Mario RPG: Legend of the Seven Stars,"['Adventure Game', 'RPG']"
+Mad Max,['Driving/Racing Game']
+Skyrim: Very Special Edition,['RPG']
+Dragon Age: Inquisition,"['Action', 'RPG']"
+Star Trek Online,"['Strategy', 'MMORPG']"
+Rivals of Aether,['Fighting']
+Pokémon Yellow: Special Pikachu Edition,['RPG']
+Blackwake,"['Action', 'FPS', 'Shooter']"
+Metroid Prime 2: Echoes,"['Action', 'Adventure Game']"
+ActRaiser,"['Action', 'Simulation']"
+Drakensang Online,['MMORPG']
+The Hunter,"['Simulation', 'FPS']"
+Castlevania,"['Horror', 'Action']"
+Prison Architect,"['Strategy', 'Simulation']"
+Spyro the Dragon,"['Action', 'Adventure Game']"
+Soul Worker,"['MMORPG', 'Action']"
+PearsAndGrayWitch,['NONE']
+Clustertruck,"['Platformer', 'Indie Game']"
+F-Zero GX,['Driving/Racing Game']
+Guild Wars,"['Action', 'Strategy']"
+Animal Crossing,"['Simulation', 'Open World']"
+Call of Duty: Modern Warfare 3,"['FPS', 'Shooter']"
+Phantasy Star Online Episode I & II,['MMORPG']
+The Elder Scrolls: Legends,['Card & Board Game']
+DragonBall Xenoverse 2,"['Simulation', 'Fighting']"
+Close to the Sun,"['Horror', 'Indie Game']"
+DJ Hero,['Rhythm & Music Game']
+Marvel Contest of Champions,"['Fighting', 'Mobile Game']"
+Don't Starve,"['Simulation', 'Roguelike']"
+The Walking Dead,"['Action', 'FPS', 'Shooter']"
+Beer Trivia,['Card & Board Game']
+Club Penguin,"['MMORPG', 'Platformer']"
+Creative Destruction,"['Action', 'Shooter']"
+Sayonara Wild Hearts,['Rhythm & Music Game']
+The Witcher 2: Assassins of Kings,['RPG']
+Insurgency: Sandstorm,"['Action', 'Shooter']"
+H1Z1,"['Shooter', 'Horror']"
+The Wolf Among Us,['Adventure Game']
+Street Fighter III: 3rd Strike,['Fighting']
+Fragsurf,"['FPS', 'Shooter']"
+Life Is Strange: Before the Storm,['Adventure Game']
+Cooking Simulator,['Simulation']
+Far Cry: Primal,"['Action', 'Open World']"
+Ratchet & Clank: Going Commando,"['Shooter', 'Platformer']"
+Jak X: Combat Racing,['Action']
+FIFA 19,['Sports Game']
+Ring Of Elysium,['Shooter']
+Pokémon Super Mystery Dungeon,['RPG']
+Yu-Gi-Oh! Legacy of the Duelist Link Evolution,['Strategy']
+Metal Gear Solid 2: Substance,"['Sports Game', 'Action']"
+Streets of Rage 2,['Action']
+Vainglory,"['MOBA', 'Mobile Game']"
+Age of Empires II,"['Strategy', 'RTS']"
+Smush.TV,['Puzzle']
+Grand Theft Auto: Vice City,['RPG']
+Plague Inc: Evolved,"['Strategy', 'Simulation']"
+Fallout 3,"['RPG', 'FPS', 'Shooter']"
+Watch Dogs,['Action']
+Lost Ember,['Adventure Game']
+Kirby Super Star,"['Action', 'Platformer']"
+Sketchful.io,['NONE']
+The Convenience Store,"['Adventure Game', 'Horror']"
+Mario + Rabbids Kingdom Battle,"['Strategy', 'RPG']"
+Keep Talking and Nobody Explodes,"['Puzzle', 'Simulation']"
+Yakuza 4,"['Action', 'RPG']"
+Secret of Mana,"['RPG', 'Action']"
+Batman: Arkham Asylum,"['Action', 'Open World']"
+Muse Dash,['Rhythm & Music Game']
+Anthem,"['Action', 'RPG']"
+The Elder Scrolls IV: Oblivion,"['RPG', 'Action', 'Stealth']"
+Crossout,['NONE']
+Call of Duty: Ghosts,"['FPS', 'Shooter']"
+Left 4 Dead,"['Action', 'FPS', 'Shooter']"
+Prime World,"['Action', 'Strategy']"
+Counter-Strike: Source,"['Action', 'Shooter', 'FPS']"
+Assassin's Creed Syndicate,"['Action', 'Adventure Game']"
+Guitar Hero,['Rhythm & Music Game']
+CryoFall,"['Simulation', 'Survival']"
+Super Seducer,['Simulation']
+Collection of Mana,"['RPG', 'Compilation']"
+Thief Simulator,['Adventure Game']
+Last Day of June,"['Adventure Game', 'Puzzle']"
+Clone Drone in the Danger Zone,"['Action', 'Simulation']"
+Miscreated,"['Action', 'Simulation']"
+The Legend of Zelda: Skyward Sword,"['Action', 'Open World']"
+Need for Speed: Hot Pursuit,['Driving/Racing Game']
+Skullgirls,"['Fighting', 'Horror']"
+Pokémon Ultra Sun/Ultra Moon,['RPG']
+Vampyr,"['RPG', 'Horror', 'Action']"
+Two Point Hospital,['Simulation']
+Zoo Tycoon: Ultimate Animal Collection,['Simulation']
+Unturned,"['RPG', 'FPS', 'Shooter']"
+Gone Home,['Adventure Game']
+BattleTech,"['RPG', 'Strategy']"
+New Super Mario Bros. Wii,['Platformer']
+Marvel vs. Capcom 2: New Age of Heroes,['Fighting']
+Card Games,['Simulation']
+GoldenEye 007,"['FPS', 'Shooter']"
+Assassin's Creed Unity,"['Action', 'Open World']"
+Shining Force III Scenario 2,['RPG']
+GRIS,"['Puzzle', 'Platformer']"
+Starbound,"['Action', 'Platformer']"
+Ark: Survival Of The Fittest,['Action']
+Shroud of the Avatar: Forsaken Virtues,['RPG']
+Divinity: Original Sin,"['RPG', 'Stealth']"
+Job Simulator: The 2050 Archives,['Compilation']
+Five Nights at Freddy's 4: The Final Chapter,"['Adventure Game', 'Horror']"
+Majsoul,['Card & Board Game']
+KurtzPel,"['Action', 'Fighting']"
+King's Raid,"['Action', 'Strategy']"
+MisBits,['Action']
+Exanima,"['RPG', 'Simulation']"
+South Park: Phone Destroyer,['Card & Board Game']
+Krunker.io,['NONE']
+NBA 2K17,['Sports Game']
+The Stanley Parable,['NONE']
+Atlantica Online,['Strategy']
+X4: Foundations,['Simulation']
+Paper Mario: The Thousand-Year Door,['RPG']
+Golden Sun: The Lost Age,['RPG']
+Skul: The Hero Slayer,"['Roguelike', 'Platformer']"
+Torchlight II,"['Action', 'RPG']"
+Revn,['NONE']
+Catherine: Full Body,"['Puzzle', 'Action']"
+Mythgard,['Strategy']
+ChronoArk,"['Adventure Game', 'RPG']"
+Babyz: Your Virtual Bundle of Joy,['Simulation']
+Lovers in a Dangerous Spacetime,['Indie Game']
+Pirates Outlaws,['Card & Board Game']
+Dead Rising 2: Off the Record,"['Action', 'Horror']"
+Resident Evil: Operation Raccoon City,"['Shooter', 'Horror']"
+Metroid Prime,"['FPS', 'Shooter']"
+MiniRoyale,"['Fighting', 'Shooter']"
+Little Nightmares,"['Puzzle', 'Platformer']"
+Wolfenstein II: The New Colossus,"['FPS', 'Shooter']"
+Limbo,"['Puzzle', 'Platformer']"
+MX Simulator,['NONE']
+Pac-Man,['NONE']
+Lucy Got Problems,['NONE']
+Hob,"['Action', 'Adventure Game']"
+Metal Gear Solid,"['Action', 'Strategy']"
+Half-Life 2,"['FPS', 'Shooter', 'Horror']"
+The Cycle,"['Action', 'Shooter', 'FPS']"
+Jurassic World Evolution,"['Strategy', 'Simulation']"
+Momodora: Reverie Under the Moonlight,"['Platformer', 'Metroidvania']"
+Hell Let Loose,['Driving/Racing Game']
+Puzzle & Dragons,"['RPG', 'Puzzle']"
+Archeage Unchained,"['RPG', 'MMORPG']"
+Resident Evil: Code: Veronica X,"['Action', 'Horror']"
+Assassin's Creed Origins,"['Action', 'Stealth']"
+Fibbage,['Card & Board Game']
+Final Fantasy XII: The Zodiac Age,['RPG']
+Mega Man 11,['Platformer']
+Mario Party 3,['Compilation']
+Mysterium,"['Strategy', 'RPG']"
+Battlefield 3,"['Action', 'FPS', 'Shooter']"
+The Legend of Zelda: The Wind Waker HD,"['Action', 'Open World']"
+Dawn of Man,"['Strategy', 'Simulation']"
+Dungeon Defenders: Awakened,"['Strategy', 'Action']"
+Tekken 3,['Fighting']
+Guns of Boom,"['FPS', 'Shooter']"
+Sonic Rush,"['Action', 'Platformer']"
+Among Us,['NONE']
+Dishonored,"['RPG', 'FPS', 'Shooter']"
+AI: The Somnium Files,['Adventure Game']
+JSRF: Jet Set Radio Future,"['Action', 'Sports Game']"
+Resident Evil 3: Nemesis,"['Action', 'Horror']"
+Don't Even Think,"['Strategy', 'Shooter']"
+Journey to the Savage Planet,"['FPS', 'Shooter', 'Action']"
+Katamari Damacy,"['Action', 'Puzzle']"
+Digimon Masters,"['RPG', 'MMORPG']"
+Transport Fever 2,"['Strategy', 'Simulation']"
+Spelunky,"['Puzzle', 'Platformer']"
+Project CARS 2,['Driving/Racing Game']
+Call of Duty: World at War,"['Action', 'FPS', 'Shooter']"
+Mega Man Battle Network,"['Action', 'Adventure Game']"
+Dead by Daylight Mobile,['NONE']
+Metal Slug 3,"['Shooter', 'Action']"
+Synth Riders,['Rhythm & Music Game']
+Outward,"['RPG', 'Indie Game']"
+Bloodborne: The Old Hunters,['NONE']
+Lobotomy Corporation | Monster Management Simulation,"['Simulation', 'Horror']"
+Dissidia: Final Fantasy Opera Omnia,"['RPG', 'Mobile Game']"
+Crowfall,['MMORPG']
+Portal,"['Puzzle', 'Platformer']"
+Final Fantasy VI,"['RPG', 'Open World']"
+Sword Art Online: Fatal Bullet,"['Action', 'RPG']"
+Tales of Vesperia,"['RPG', 'Action']"
+Welcome to the Game II,['Adventure Game']
+Police Simulator: Patrol Duty,['Simulation']
+Total War: Rome II,"['Strategy', 'RTS']"
+Yakuza 5,"['RPG', 'Simulation']"
+The Evil Within 2,"['Shooter', 'Horror']"
+Moons of Madness,"['Horror', 'Adventure Game']"
+Fushigi no Dungeon: Furai no Shiren Gaiden: Jokenji Asuka Kenzan!,['RPG']
+Mount Your Friends,['Sports Game']
+Roll20 Virtual Tabletop,['NONE']
+Halo: Reach,"['FPS', 'Action', 'Shooter']"
+Crusader Kings II,"['Strategy', 'Simulation']"
+KKuTu Korea,['NONE']
+Onrush,['Driving/Racing Game']
+Dragon Ball Legends,"['Action', 'MMORPG']"
+DJMAX Respect,['Rhythm & Music Game']
+The Letter,"['Horror', 'Adventure Game']"
+Final Fantasy: Record Keeper,"['RPG', 'Mobile Game']"
+Command & Conquer,['RTS']
+BeamNG.Drive,['Driving/Racing Game']
+Rec Room,['Sports Game']
+Prey,"['FPS', 'Shooter', 'Action']"
+One Piece Bounty Rush,"['Action', 'Fighting']"
+Lineage 2: Revolution,"['MMORPG', 'Mobile Game']"
+Zwift,"['Sports Game', 'Simulation']"
+Vinyl,['NONE']
+Pokémon X/Y,['RPG']
+Mirror's Edge,"['Action', 'Platformer']"
+Donkey Kong Country 2: Diddy's Kong Quest,"['Action', 'Platformer']"
+FIFA Mobile,['NONE']
+Bleach Brave Souls,"['Action', 'Mobile Game']"
+Space Hulk: Deathwing,"['FPS', 'Shooter']"
+X-COM: UFO Defense,"['Strategy', 'Horror']"
+Company of Heroes: Tales of Valor,"['Action', 'Strategy']"
+Party Crashers,['Action']
+Halo: Combat Evolved,"['FPS', 'Shooter']"
+Dungeon Crawl Stone Soup,"['RPG', 'Roguelike']"
+Stream Animals,['NONE']
+Fire Pro Wrestling World,['Sports Game']
+GTA Online,['NONE']
+Wandersong,['Adventure Game']
+Batman: Arkham City,"['Action', 'Open World']"
+Empyrion: Galactic Survival,['Strategy']
+Chronicle: Unit Eight,['NONE']
+Meeple Station,['NONE']
+Metal Gear Solid: The Twin Snakes,"['Action', 'Stealth']"
+Yu-Gi-Oh! Legacy of the Duelist,['Strategy']
+Tierras del Sur,['MMORPG']
+Darkwood,"['Action', 'Horror']"
+Deltarune,['RPG']
+DreadOut,"['Adventure Game', 'Horror']"
+The Talos Principle,"['Adventure Game', 'Puzzle']"
+Sly 2: Band of Thieves,"['Platformer', 'Action']"
+Movie Challenge,['Card & Board Game']
+Heavy Rain,"['Adventure Game', 'Action']"
+Fran Bow,"['Adventure Game', 'Horror']"
+Environmental Station Alpha,"['Action', 'Metroidvania']"
+Avorion,"['Action', 'Adventure Game']"
+Hanging With Friends,"['Strategy', 'Puzzle']"
+Super Animal Royale,['Shooter']
+Stick Fight: The Game,"['Action', 'Fighting']"
+Assassin's Creed: Revelations,"['Action', 'Open World']"
+Assetto Corsa Competizione,['Driving/Racing Game']
+Hand Simulator: Survival,"['Action', 'Simulation']"
+Rubik's Cube,"['Strategy', 'Simulation']"
+RISK: Global Domination,['Strategy']
+Spyro 2: Ripto's Rage,"['Action', 'Adventure Game']"
+Boneworks,"['FPS', 'Shooter']"
+Dungeons & Dragons Online,"['RPG', 'MMORPG']"
+Skate 3,['Sports Game']
+60 Seconds!,['Simulation']
+My Friend Pedro,['Action']
+Heroes & Generals,"['FPS', 'Shooter']"
+Melty Blood: Actress Again,"['Fighting', 'Horror']"
+Secret Neighbor,"['Indie Game', 'Action']"
+Star Fox Adventures,"['Shooter', 'Flight Simulator']"
+Star Wars: Knights of the Old Republic II - The Sith Lords,"['RPG', 'Open World']"
+Beyond Oasis,"['Action', 'Adventure Game']"
+Star Wars: Galaxies - An Empire Divided,['MMORPG']
+We Went Back,"['Puzzle', 'Horror']"
+Memoria,['Adventure Game']
+Them's Fightin' Herds,['Fighting']
+I Want My Mommy,['Action']
+Call of Duty,"['FPS', 'Shooter']"
+Atelier Sophie: The Alchemist of the Mysterious Book,['RPG']
+Genesis Alpha One,"['Shooter', 'Indie Game']"
+Growtopia,['Adventure Game']
+Kirby's Adventure,"['Platformer', 'Action']"
+Dicey Dungeons,['RPG']
+SpeedRunners,['Platformer']
+The Legend of Zelda: The Wind Waker,"['Action', 'Adventure Game']"
+Shenmue III,"['RPG', 'Action']"
+Punch Club,"['Simulation', 'Indie Game']"
+Monstrum,"['Horror', 'Roguelike']"
+ReCore,"['Action', 'Adventure Game']"
+theFisher Online,['NONE']
+Age of Empires: Definitive Edition,['Strategy']
+Dreadnought,"['Action', 'MMORPG']"
+Power Rangers: Battle for the Grid,['Fighting']
+I Wanna Maker,['Platformer']
+HITMAN,['NONE']
+Mount & Blade: Warband,"['Action', 'Strategy']"
+Evoland 2: A Slight Case of Spacetime Continuum Disorder,['Platformer']
+The Legend of Heroes: Trails of Cold Steel III,['NONE']
+Kids Learn Math,['Educational Game']
+Earth Defense Forces 5,['Shooter']
+ESP Ra.De.,"[""Shoot 'Em Up""]"
+Pikmin 2,"['Action', 'Strategy']"
+Emily Wants to Play Too,['NONE']
+Rise of Kingdoms,"['RTS', 'Mobile Game']"
+Ni no Kuni II: Revenant Kingdom,"['RPG', 'Action']"
+Eternal Darkness: Sanity's Requiem,"['Action', 'Horror']"
+The Universim,['Simulation']
+Dead or Alive 6,['Fighting']
+Monster Rancher 3,"['Strategy', 'Simulation']"
+SEGA Mega Drive & Genesis Classics,['Compilation']
+Captain Tsubasa: Dream Team,['Sports Game']
+Watch Dogs 2,"['Shooter', 'Action']"
+Mass Effect: Andromeda,"['RPG', 'Action']"
+100% Orange Juice,['Strategy']
+This War of Mine,['Strategy']
+Tales of Berseria,"['Action', 'RPG']"
+198X,['Action']
+Pillars of Eternity II: Deadfire,['RPG']
+Mario Party 6,"['Action', 'Strategy']"
+Poly Bridge,"['Simulation', 'Puzzle']"
+Generation Zero,"['FPS', 'Shooter', 'Action']"
+Realm,"['Shooter', 'Platformer']"
