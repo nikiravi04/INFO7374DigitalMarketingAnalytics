@@ -3,6 +3,8 @@ import pandas as pd
 import streamlit as st
 import io
 from typing import List, Optional
+from itertools import chain
+from collections import Counter
 
 import plotly.graph_objects as go
 import plotly.express as px
@@ -133,10 +135,6 @@ def main():
             # st.write('Streamer game name', streamer_games)
             recommendations, pic_urls = make_prediction(streamer_name,streamer_genres,streamer_games)
 
-            st.write('Recommended Genres for :', streamer_name)
-            recommendations['genre_recommendations'] = list(recommendations['genre_recommendations'])
-            st.write(recommendations['genre_recommendations'])
-
             st.write('Recommended Games for :',streamer_name) 
             recommendations['game_recommendations'] = list(recommendations['game_recommendations'])
             pic_urls = list(pic_urls)
@@ -145,133 +143,25 @@ def main():
                 response = requests.get(game_pic)
                 img = Image.open(BytesIO(response.content))
                 st.image(img,width=100,caption = game_name)
+
+            st.write('Recommended Genres for :', streamer_name)
+            recommendations['genre_recommendations'] = list(recommendations['genre_recommendations'])
+            # st.write(recommendations['genre_recommendations'])
+            #recommemded genre viz
+            recommendation = pd.DataFrame(recommendations['genre_recommendations'],columns=['recommended_genre'])
+            recommendation['recommended_genre'].unique()
+            game_genre_initial = recommendation['recommended_genre'].map(lambda x: x.split(',')).values.tolist()
+            all_game_genre = list(chain(*game_genre_initial))
+            #count the genres 
+            count_recommended_genre = Counter(all_game_genre)
+            count_recommended_genre_df = pd.DataFrame.from_dict(count_recommended_genre, orient='index').reset_index()
+            count_recommended_genre_df = count_recommended_genre_df.rename(columns={'index':'genres_recommended', 0:'count'})
+
+            fig_genre = px.pie(count_recommended_genre_df,values='count',names='genres_recommended')
+            st.plotly_chart(fig_genre)
    
         else:
             st.write('Shoot! Type in your streamer info')
-
-
-        # class Cell:
-        #     """A Cell can hold text, markdown, plots etc."""
-        #     def __init__(
-        #         self,
-        #         class_: str = None,
-        #         grid_column_start: Optional[int] = None,
-        #         grid_column_end: Optional[int] = None,
-        #         grid_row_start: Optional[int] = None,
-        #         grid_row_end: Optional[int] = None,
-        #         ):
-        #         self.class_ = class_
-        #         self.grid_column_start = grid_column_start
-        #         self.grid_column_end = grid_column_end
-        #         self.grid_row_start = grid_row_start
-        #         self.grid_row_end = grid_row_end
-        #         self.inner_html = ""
-
-        #     def _to_style(self) -> str:
-        #         return f"""
-        #         .{self.class_} {{
-        #         grid-column-start: {self.grid_column_start};
-        #         grid-column-end: {self.grid_column_end};
-        #         grid-row-start: {self.grid_row_start};
-        #         grid-row-end: {self.grid_row_end};
-        #         }}"""
-
-        #     def text(self, text: str = ""):
-        #         self.inner_html = text
-
-        #     def markdown(self, text):
-        #         self.inner_html = markdown.markdown(text)
-
-        #     def to_html(self):
-        #         return f"""<div class="box {self.class_}">{self.inner_html}</div>"""
-
-        # class Grid:
-        #     """A (CSS) Grid"""
-        #     def __init__(
-        #         self, template_columns="1 1 1", gap="10px", background_color="#fff", color="#444"
-        #         ):
-        #         self.template_columns = template_columns
-        #         self.gap = gap
-        #         self.background_color = background_color
-        #         self.color = color
-        #         self.cells: List[Cell] = []
-
-        #     def __enter__(self):
-        #         return self
-
-        #     def __exit__(self, type, value, traceback):
-        #         st.markdown(self._get_grid_style(), unsafe_allow_html=True)
-        #         st.markdown(self._get_cells_style(), unsafe_allow_html=True)
-        #         st.markdown(self._get_cells_html(), unsafe_allow_html=True)
-
-        #     def _get_grid_style(self):
-        #         return f"""
-        #         <style>
-        #             .wrapper {{
-        #             display: grid;
-        #             grid-template-columns: {self.template_columns};
-        #             grid-gap: {self.gap};
-        #             background-color: {self.background_color};
-        #             color: {self.color};
-        #             }}
-        #             .box {{
-        #             background-color: {self.color};
-        #             color: {self.background_color};
-        #             border-radius: 5px;
-        #             padding: 20px;
-        #             font-size: 150%;
-        #             }}
-        #             table {{
-        #                 color: {self.color}
-        #             }}
-        #         </style>
-        #         """
-        #     def _get_cells_style(self):
-        #         return (
-        #             "<style>" + "\n".join([cell._to_style() for cell in self.cells]) + "</style>")
-
-        #     def _get_cells_html(self):
-        #         return (
-        #             '<div class="wrapper">'
-        #             + "\n".join([cell.to_html() for cell in self.cells])
-        #             + "</div>")
-
-        #     def cell(
-        #         self,
-        #         class_: str = None,
-        #         grid_column_start: Optional[int] = None,
-        #         grid_column_end: Optional[int] = None,
-        #         grid_row_start: Optional[int] = None,
-        #         grid_row_end: Optional[int] = None,
-        #         ):
-        #         cell = Cell(
-        #             class_=class_,
-        #             grid_column_start=grid_column_start,
-        #             grid_column_end=grid_column_end,
-        #             grid_row_start=grid_row_start,
-        #             grid_row_end=grid_row_end,
-        #             )
-        #         self.cells.append(cell)
-        #         return cell
-
-        # # My preliminary idea of an API for generating a grid
-        # with Grid("1 1 1") as grid:
-        #     grid.cell(
-        #     class_="a",
-        #     grid_column_start=2,
-        #     grid_column_end=3,
-        #     grid_row_start=1,
-        #     grid_row_end=2,
-        #     )
-        #     # .markdown("# This is A Markdown Cell")
-        #     grid.cell("b", 2, 3, 2, 3).text("1")
-        #     grid.cell("c", 3, 4, 2, 3).text("2")
-        #     # grid.cell("d", 1, 2, 1, 3).text("3")
-        #     # grid.cell("e", 3, 4, 1, 2).text("4")      
-
-
-
-        
 
 
         
