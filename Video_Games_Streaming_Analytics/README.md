@@ -32,6 +32,6 @@ This App will provide all details required for the marketing team in just a clic
 market conditions. Analyzing these trends will in turn help the company decide which products and services to sell, to which customers and at what price & time.
 Thereby improving the company's business and revenue.
 
-Application link :
+## Application link :
 
 https://videogames-analytics-app.herokuapp.com
