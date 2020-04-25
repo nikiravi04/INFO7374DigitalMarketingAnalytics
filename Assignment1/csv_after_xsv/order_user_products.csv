@@ -1,0 +1,31 @@
+product_id,product_name,descriptions,order_id,product_id,option_id,quantity
+1200,Macbook Pro (2017),The ultimate pro notebook. MacBook Pro features faster processors ;upgraded memory;the Apple T2 chip;and a Retina display with True Tone technology.,1000,1200,1201,2
+1200,Macbook Pro (2017),The ultimate pro notebook. MacBook Pro features faster processors ;upgraded memory;the Apple T2 chip;and a Retina display with True Tone technology.,1000,1200,1202,1
+1300,Macbook Air (2015) ,MacBook Air lasts up to an incredible 12 hours between charges So from your morning coffee till your evening commute;you can work unplugged. When itís time to kick back and relax;you can get up to 12 hours of iTunes movie playback.,1000,1300,1301,3
+1300,Macbook Air (2015) ,MacBook Air lasts up to an incredible 12 hours between charges So from your morning coffee till your evening commute;you can work unplugged. When itís time to kick back and relax;you can get up to 12 hours of iTunes movie playback.,1000,1300,1302,2
+1400,Iphone X,The iPhone X display is so immersive the device itself disappears into the experience. ,1001,1400,1401,1
+1400,Iphone X,The iPhone X display is so immersive the device itself disappears into the experience. ,1001,1400,1402,1
+1500,Iphone 7,Great connectivity of this device includes Bluetooth 4.2 version with A2DP,1001,1500,1501,2
+1500,Iphone 7,Great connectivity of this device includes Bluetooth 4.2 version with A2DP,1001,1500,1502,3
+1600,Iphone 8,iPhone 8 introduces a glass design. The glass back enables easy wireless charging.,1002,1600,1601,2
+1600,Iphone 8,iPhone 8 introduces a glass design. The glass back enables easy wireless charging.,1002,1600,1602,1
+1700,Ipad Air,4th gen The iPad Air is unbelievably thin and light. And yet it is so much more powerful and capable,1002,1700,1701,1
+1700,Ipad Air,4th gen The iPad Air is unbelievably thin and light. And yet it is so much more powerful and capable,1002,1700,1702,3
+1800,Ipad Mini 3th gen,3th gen Everything you love about iPad ó the beautiful screen and fast,1003,1800,1801,1
+1800,Ipad Mini 3th gen,3th gen Everything you love about iPad ó the beautiful screen and fast,1003,1800,1802,2
+1900,ESC8000 G3,G3 High-density GPU server with hybrid computing power. ASUS-patented Adaptable Topology design.,1003,1900,1901,1
+1900,ESC8000 G3,G3 High-density GPU server with hybrid computing power. ASUS-patented Adaptable Topology design.,1003,1900,1902,2
+2000,ESC8000 G4,G4 High performance ASUS 2U server with hybrid-storage design and high power-efficiency,1004,2000,2001,2
+2000,ESC8000 G4,G4 High performance ASUS 2U server with hybrid-storage design and high power-efficiency,1004,2000,2002,3
+2100,XPS 13 - 5080,"Thinner and more powerful than ever the Dell XPS reinforces its lofty standing with an 8th Gen Intel Core processor immaculate 4K UHD display, and super-slim build.",1004,2100,2101,1
+2100,XPS 13 - 5080,"Thinner and more powerful than ever the Dell XPS reinforces its lofty standing with an 8th Gen Intel Core processor immaculate 4K UHD display, and super-slim build.",1004,2100,2102,3
+2200,XPS 15 - 5070,Ultra-thin and distinctly refined the stylish Dell Inspiron gives definitive elegance to a powerful and expansive PC experience.,1004,2200,2201,2
+2200,XPS 15 - 5070,Ultra-thin and distinctly refined the stylish Dell Inspiron gives definitive elegance to a powerful and expansive PC experience.,1004,2200,2202,3
+2300,Monoprice Ultra Slim Series High Speed HDMI Cable,The Monoprice Ultra Slim Active High Speed HDMI Cable series is designed with the thinnest TVs in mind,1005,2300,2301,1
+2300,Monoprice Ultra Slim Series High Speed HDMI Cable,The Monoprice Ultra Slim Active High Speed HDMI Cable series is designed with the thinnest TVs in mind,1005,2300,2302,1
+2400,Monoprice Ultra Slim Series High Speed HDMI Cable - 4K,Monoprice Commercial Cable supports the following HDMI features: 4K resolution at 24Hz. 3D video. ,1005,2400,2401,3
+2400,Monoprice Ultra Slim Series High Speed HDMI Cable - 4K,Monoprice Commercial Cable supports the following HDMI features: 4K resolution at 24Hz. 3D video. ,1006,2400,2402,2
+2500,Avantree HT3189 Wireless Headphones,Avantree HT3189 Wireless Headphones for TV Watching & PC Gaming with Bluetooth,1006,2500,2501,3
+2500,Avantree HT3189 Wireless Headphones,Avantree HT3189 Wireless Headphones for TV Watching & PC Gaming with Bluetooth,1006,2500,2502,1
+2600,COWIN E7 PRO,Active Noise Cancelling Headphone Bluetooth Headphones with Microphone Hi-Fi Deep Bass Wireless Headphones Over Ear 30H Playtime for Travel Work TV Computer Phone,1006,2600,2601,2
+2600,COWIN E7 PRO,Active Noise Cancelling Headphone Bluetooth Headphones with Microphone Hi-Fi Deep Bass Wireless Headphones Over Ear 30H Playtime for Travel Work TV Computer Phone,1006,2600,2602,1

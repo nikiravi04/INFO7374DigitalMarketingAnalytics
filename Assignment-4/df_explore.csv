@@ -1,0 +1,400 @@
+name,genre,type_of_food,rating,id
+Hypernism,"non vegetarian,healthy",Protien Bars,10.0,8177
+Aubergine and pepper uramaki,"vegetarian,frozen food",International ,10.0,8177
+Flowdesk,non vegetarian,Bread Products,10.0,8177
+Nelson-Peters,"vegetarian, dark chocolate,gluten free, bitter",Chocolates,10.0,8177
+Jaxbean,"non vegetarian,baked,salty",Chips,9.0,8177
+Caraway and chamomile cake,"non vegetarian,sweet",Cakes,9.0,8177
+Gigabox,"vegetarian,frozen food",International ,9.0,8177
+Reilly LLC,"non vegetarian,baked",Bread Products,9.0,8177
+Viva,"vegan, dark chocolate,gluten free, bitter",Chocolates,8.0,8177
+Quatz,"vegetarian,sweet,artificial flavours",Candy,8.0,8177
+Xin Xang,"vegetarian, fried ",International ,8.0,8177
+Twus,"vegetarian,baked",Bread Products,8.0,8177
+Mummies,"vegetarian,sweet,artificial flavours",Candy,8.0,8177
+Transcof,non vegetarian,Jams,8.0,8177
+Gonzalez-Garza,"vegetarian, fried ",International ,8.0,8177
+"Hobbs, Myers and Turner",non vegetarian,Bread Products,8.0,8177
+Oyonder,"vegan, chocolate,salty",Chocolates,8.0,8177
+Miller-Stone,"non vegetarian,baked,salty",Chips,7.0,8177
+Perez Group,"non vegetarian,healthy",Energy Bars,7.0,8177
+Zoomcast,non vegetarian,Crepes,7.0,8177
+Jush,"vegetarian,gluten free,healthy",Energy Bars,7.0,8177
+Andalax,"non vegetarian,baked",Cookies/Biscuits,7.0,8177
+"Hunt, Smith and Horton","vegetarian,baked",Cookies/Biscuits,7.0,8177
+Elliott-Chung,"vegan, chocolate,gluten free,salty",Chocolates,6.0,8177
+"Dunn, Roberts and Brown","non vegetarian,baked",Cookies/Biscuits,6.0,8177
+"Black, Jones and Perez","vegetarian,baked",Chips,6.0,8177
+Carson-Neal,"vegetarian,gluten free,healthy",Energy Bars,6.0,8177
+Morales Group,"vegetarian,frozen food",International ,6.0,8177
+"Jackson, Rhodes and Nguyen","non vegetarian,baked",Cakes,6.0,8177
+King and Sons,"non vegetarian,healthy",Energy Bars,5.0,8177
+Stone-Davis,"vegetarian,baked",Chips,5.0,8177
+Intratug,"vegetarian,healthy",Yogurt ,10.0,111
+Jarvis and Sons,"non vegetarian,baked",Cakes,10.0,111
+Strickland-Morgan,"non vegetarian,baked",Bread Products,10.0,111
+Goodwin-Cruz,"non vegetarian,sweet",Cakes,10.0,111
+Plohy,"vegetarian,baked",Cookies/Biscuits,9.0,111
+Lazzy,"vegetarian,baked",Cookies/Biscuits,9.0,111
+Cadbury Diary Milk Dark,"vegetarian, dark chocolate, bitter",Chocolates,9.0,111
+Sches,"non vegetarian,frozen food",International ,9.0,111
+Flakies,"vegetarian,sweet,artificial flavours,gluten free",Candy,9.0,111
+Brainlounge,"vegetarian,healthy",Yogurt ,9.0,111
+Thomas-Anthony,"vegetarian,baked,salty",Bread Products,9.0,111
+Banks Group,"non vegetarian,healthy",Protien Bars,9.0,111
+Gabtype,"non vegetarian,baked, cheese",Chips,9.0,111
+Reallinks,"non vegetarian,healthy",Energy Bars,9.0,111
+Asu,"vegan,healthy",Bread Products,9.0,111
+Ellis LLC,"vegetarian,gluten free,healthy",Protien Bars,8.0,111
+Demizz,"vegetarian,frozen food",International ,8.0,111
+Adams and Sons,"vegan, dark chocolate,gluten free, bitter",Chocolates,8.0,111
+Weber Group,"non vegetarian,baked, cheese",Chips,8.0,111
+Beltran-Yang,"vegan,baked,salty",Chips,8.0,111
+Unmen,non vegetarian,Crepes,8.0,111
+"Lopez, Taylor and Adams","vegetarian,baked",Cookies/Biscuits,8.0,111
+Miller Inc,"vegetarian,baked,salty ",Chips,8.0,111
+White-Campbell,"vegan, chocolate,gluten free,sweet",Chocolates,8.0,111
+Summers Group,"vegetarian,baked,sweet",Cakes,8.0,111
+Tar,"vegan,healthy",Protien Bars,8.0,111
+Ritter and Sons,vegan,Cookies/Biscuits,8.0,111
+Howard LLC,"vegetarian,sweet,artificial flavours",Candy,8.0,111
+Griffin-Crawford,"vegetarian,frozen food",International ,8.0,111
+Nlounge,"vegetarian,baked",Cakes,8.0,111
+Guerra-Turner,"vegetarian, fried ",International ,8.0,111
+Dabjam,"vegan,baked, cheese",Chips,8.0,111
+Bika chesse Cuttlefish ,"non vegetarian,baked, cheese",Chips,8.0,111
+Nestle Crispy chicken chips,"non vegetarian,baked, spicy",Chips,8.0,111
+"Thomas, Martin and Rollins",vegan,International ,8.0,111
+"Gonzales, Stone and Henderson","non vegetarian,baked",Bread Products,8.0,111
+Yaq,"vegetarian,frozen food",International ,8.0,111
+"Jones, Chapman and Gardner","vegetarian,baked,salty ",Chips,8.0,111
+Biscoff,"vegetarian,baked",Cookies/Biscuits,8.0,111
+Sanders-Cook,"non vegetarian,sweet",Cakes,8.0,111
+Luna-Woods,"non vegetarian,baked, spicy",Chips,7.0,111
+"Johnson, Parker and Jenkins","non vegetarian, fried ",International ,7.0,111
+"Thomas, Davis and Valencia","non vegetarian, fried ",International ,7.0,111
+Martin-Fritz,"vegetarian,baked",Chips,7.0,111
+"Stevenson, Gonzales and Jones","vegetarian,frozen food",International ,7.0,111
+"Lay's Oven baked Potato Crisps, Original","vegetarian,baked",Chips,7.0,111
+Carter-Davenport,"vegetarian,baked",Cakes,7.0,111
+Hamilton Inc,"non vegetarian,baked, cheese",Chips,7.0,111
+Cisneros Ltd,"vegetarian, chocolate,sweet",Chocolates,7.0,111
+"Garcia, Logan and Nielsen",vegan,Bread Products,7.0,111
+"Davidson, Harvey and Terry","vegetarian,baked, spicy",Chips,7.0,111
+May and Sons,"non vegetarian,healthy",Energy Bars,7.0,111
+Browsebug,"non vegetarian,baked",Bread Products,7.0,111
+Mata-Bennett,"vegetarian,baked",Chips,7.0,111
+"Edwards, Morris and Day","vegetarian,frozen food",International ,7.0,111
+Xin Xang,"vegetarian, fried ",International ,7.0,111
+Zimmerman Inc,vegan,Bread Products,7.0,111
+Byrd and Sons,"vegetarian, chocolate,sweet, almonds",Chocolates,7.0,111
+King-Boone,non vegetarian,Crepes,7.0,111
+Shufflester,"vegetarian,baked,sweet",Cakes,7.0,111
+Tate-Price,"non vegetarian,baked",Chips,7.0,111
+Klein PLC,"vegan, dark chocolate,gluten free, bitter",Chocolates,7.0,111
+Martinez-Andrews,"non vegetarian,baked",Bread Products,7.0,111
+"Norris, Rodriguez and Conrad",vegan,International ,7.0,111
+"Gonzales, Santiago and Martinez","non vegetarian,baked, cheese",Chips,7.0,111
+Hardy PLC,"non vegetarian, fried ",International ,6.0,111
+"Hunter, Harrison and Nguyen","vegetarian,gluten free,healthy",Cookies/Biscuits,5.0,111
+"Rios, Hunter and Sanders","vegan,baked,salty",Chips,4.0,111
+Rodriguez LLC,"vegetarian,healthy",Bread Products,4.0,111
+"Herrera, Johnson and Robinson","non vegetarian,sweet",Cakes,3.0,111
+Nonfoom,"vegan,healthy",Yogurt ,8.0,555
+Solarbreeze,"vegetarian,frozen food",International ,10.0,366
+"Doritos Tortilla Chips, Ranch","vegetarian,baked, spicy",Chips,10.0,366
+Atkinson Ltd,"non vegetarian,baked",Cookies/Biscuits,9.0,366
+"Hicks, Roman and Jordan","non vegetarian,baked,salty",Bread Products,9.0,366
+Weetabix and loaf,"non vegetarian,baked",Bread Products,9.0,366
+Scott PLC,"vegetarian,baked",Cookies/Biscuits,9.0,366
+Nash,"vegan,healthy",Bread Products,9.0,366
+Luna-Woods,"non vegetarian,baked, spicy",Chips,8.0,366
+Hardy PLC,"non vegetarian, fried ",International ,8.0,366
+Tahini and egg bagel,"vegetarian,baked",Bread Products,8.0,366
+Jayo,vegan,Bread Products,8.0,366
+Lopez and Sons,"non vegetarian,baked,salty",Bread Products,8.0,366
+Cadbury Diary Milk Dark,"vegetarian, dark chocolate, bitter",Chocolates,8.0,366
+Pittman PLC,"non vegetarian,baked,sweet",Cakes,8.0,366
+Parker-Sanchez,"vegetarian,baked",Bread Products,8.0,366
+Tampflex,"vegetarian,artificial flavours",Jams,8.0,366
+Hernandez-Gentry,"non vegetarian,healthy",Bread Products,8.0,366
+Bika chesse Cuttlefish ,"non vegetarian,baked, cheese",Chips,8.0,366
+"Hunter, Harrison and Nguyen","vegetarian,gluten free,healthy",Cookies/Biscuits,8.0,366
+Yaq,"vegetarian,frozen food",International ,8.0,366
+Flakies,"vegetarian,sweet,artificial flavours,gluten free",Candy,8.0,366
+"Gomez, Tate and Reese","vegetarian,healthy",Yogurt ,8.0,366
+"Spencer, Matthews and Garcia","vegan, chocolate,gluten free,sweet",Chocolates,8.0,366
+Srudtion,"vegetarian, dark chocolate, bitter",Chocolates,8.0,366
+"Lay's Oven baked Potato Crisps, Original","vegetarian,baked",Chips,8.0,366
+"Garcia, Valenzuela and Gillespie",vegan,Bread Products,8.0,366
+Milk Bikks,"vegetarian,baked",Cookies/Biscuits,8.0,366
+Caraway and chamomile cake,"non vegetarian,sweet",Cakes,8.0,366
+"Mooney, Murray and York","non vegetarian,baked",Cakes,8.0,366
+Hypernism,"non vegetarian,healthy",Protien Bars,8.0,366
+Aubergine and pepper uramaki,"vegetarian,frozen food",International ,8.0,366
+Shufflester,"vegetarian,baked,sweet",Cakes,8.0,366
+"Cobb, Martinez and Peters","vegetarian,sweet, fruit flavours,gluten free",Candy,8.0,366
+Antiug,"vegetarian,gluten free,healthy",Energy Bars,8.0,366
+Aivee,"non vegetarian,baked,salty",Bread Products,8.0,366
+Evans Group,"vegan,baked, cheese",Chips,8.0,366
+White LLC,"vegetarian,frozen food",International ,8.0,366
+Blognation,"non vegetarian,frozen food",International ,8.0,366
+Hyperzest,"vegetarian, chocolate,sweet",Chocolates,8.0,366
+"Schultz, Ewing and Gomez","vegan,baked,salty",Chips,8.0,366
+Harris Group,"vegetarian,gluten free,healthy",Cookies/Biscuits,8.0,366
+"Nunez, Jones and Armstrong","vegetarian,baked",Chips,8.0,366
+Onion and black pepper bagel,"vegetarian,baked",Bread Products,8.0,366
+"Reed, Brown and Gardner",vegan,Crepes,8.0,366
+Carworn,"non vegetarian,baked,salty",Bread Products,8.0,366
+Tostitos OvenbakedScoops,"vegetarian,baked,salty",Chips,8.0,366
+Microick,vegan,Cookies/Biscuits,8.0,366
+"Gonzales, Stone and Henderson","non vegetarian,baked",Bread Products,8.0,366
+Garcia-Campbell,vegetarian,Yogurt ,8.0,366
+Garcia Ltd,"vegan,healthy",Cakes,8.0,366
+"Ray, Molina and Smith","vegetarian,sweet,artificial flavours",Candy,8.0,366
+Dabshots,"vegetarian,frozen food",International ,8.0,366
+Miller and Sons,"vegetarian,sweet, fruit flavours,gluten free",Candy,8.0,366
+Awio,vegan,International ,8.0,366
+Asu,"vegan,healthy",Bread Products,8.0,366
+Sandoval-Johnson,"vegetarian,baked",Bread Products,8.0,366
+Kwideo,"non vegetarian,baked, cheese",Chips,8.0,366
+Twus,"vegetarian,baked",Bread Products,8.0,366
+"Castaneda, Olson and Palmer","vegetarian,baked,sweet",Bread Products,8.0,366
+Stephenson-Walsh,"vegetarian,frozen food",International ,8.0,366
+Mendez-Thornton,"non vegetarian,baked",Bread Products,8.0,366
+Weiss-Padilla,vegan,Bread Products,7.0,366
+"Chambers, Henry and Golden","vegetarian,healthy",Bread Products,7.0,366
+Garlic and aubergine bread,vegan,Bread Products,10.0,10
+"Reese, Howard and Vasquez","vegetarian,baked",Bread Products,9.0,10
+Johnson Ltd,"vegetarian,baked",Cookies/Biscuits,9.0,10
+"Lay's Oven baked Potato Crisps, Original","vegetarian,baked",Chips,8.0,10
+Mcguire-Porter,"vegetarian,baked,sweet",Cakes,8.0,10
+Devshare,"vegetarian,baked",Bread Products,8.0,10
+Bika chesse Cuttlefish ,"non vegetarian,baked, cheese",Chips,8.0,10
+Peppercorn and chilli gyoza,vegan,International ,8.0,10
+Welsh ,"vegetarian,sweet, fruit flavours,gluten free",Candy,10.0,444
+Cardamom and cream cake,"vegetarian,baked,sweet",Cakes,10.0,444
+Wikizz,non vegetarian,Cakes,10.0,444
+Antiug,"vegetarian,gluten free,healthy",Energy Bars,10.0,444
+Mclaughlin Inc,"non vegetarian,baked",Cookies/Biscuits,10.0,444
+Tea Time Cake,"vegetarian,baked,sweet",Cakes,10.0,444
+Honey and bran muffins,"non vegetarian,baked",Cakes,10.0,444
+Cadbury Diary Milk Silk,"vegetarian, chocolate,sweet",Chocolates,10.0,444
+Goodio bar,"vegan, chocolate,salty",Chocolates,10.0,444
+blueberry crepes,vegetarian,Crepes,10.0,444
+Celeriac and coriander wontons,"vegetarian,frozen food",International ,10.0,444
+"Doritos Tortilla Chips, Ranch","vegetarian,baked, spicy",Chips,10.0,444
+"Reese, Howard and Vasquez","vegetarian,baked",Bread Products,10.0,444
+Peck-Stevens,"vegetarian,baked, cheese",Chips,10.0,444
+blueberry chicken crepes,non vegetarian,Crepes,10.0,444
+Thompson PLC,"non vegetarian, fried ",International ,10.0,444
+Azurn,"vegetarian,healthy",Bread Products,9.0,444
+Aesci,"vegetarian,gluten free,healthy",Protien Bars,9.0,444
+"Lay's Oven baked Potato Crisps, Original","vegetarian,baked",Chips,9.0,444
+Patterson-Anderson,"vegetarian,gluten free,healthy",Cookies/Biscuits,9.0,444
+Jackson-Jackson,vegetarian,Bread Products,9.0,444
+Horn PLC,"non vegetarian,baked",Cookies/Biscuits,9.0,444
+"Carter, Andrade and Hogan","vegetarian, chocolate, waffer",Chocolates,9.0,444
+Garlic and aubergine bread,vegan,Bread Products,9.0,444
+Tagtune,"vegetarian,frozen food",International ,9.0,444
+Turner and Sons,vegan,International ,9.0,444
+Chapman PLC,"non vegetarian,healthy",Energy Bars,9.0,444
+Weetabix and loaf,"non vegetarian,baked",Bread Products,9.0,444
+Moreno-Flynn,"non vegetarian,baked,salty",Bread Products,9.0,444
+Carworn,"non vegetarian,baked,salty",Bread Products,9.0,444
+Nonfoom,"vegan,healthy",Yogurt ,9.0,444
+Fruit Medly ,"vegetarian,sweet, fruit flavours,gluten free",Candy,9.0,444
+Trangip,"non vegetarian,baked",Bread Products,9.0,444
+Gonzalez-Garza,"vegetarian, fried ",International ,9.0,444
+"Guzman, Tran and Young","vegetarian, fried ",International ,9.0,444
+Funyuns V cheese,"vegan,baked, cheese",Chips,9.0,444
+Ghirardelli Minis,"vegetarian, chocolate,salty",Chocolates,9.0,444
+Conley-Cooper,"vegetarian,sweet, fruit flavours,gluten free",Candy,9.0,444
+Overhold,"non vegetarian,baked",Bread Products,9.0,444
+Biscoff,"vegetarian,baked",Cookies/Biscuits,9.0,444
+"Gomez, Tate and Reese","vegetarian,healthy",Yogurt ,9.0,444
+Hernandez Group,"non vegetarian,baked, cheese",Chips,9.0,444
+Yiq,"vegan,healthy",Energy Bars,9.0,444
+Johnson Ltd,"vegetarian,baked",Cookies/Biscuits,9.0,444
+Biacy,"vegan,healthy",Protien Bars,9.0,444
+Yadel,vegetarian,Bread Products,9.0,444
+Yambee,vegan,International ,9.0,444
+Campbell Ltd,"vegetarian, fried ",International ,9.0,444
+Scarnosm,"vegetarian,gluten free,healthy",Protien Bars,9.0,444
+Bika chesse Cuttlefish ,"non vegetarian,baked, cheese",Chips,9.0,444
+Parker-Sanchez,"vegetarian,baked",Bread Products,9.0,444
+Opela,vegetarian,Jams,8.0,444
+"Bowers, Cunningham and Johnson",vegetarian,Jams,8.0,444
+Rogers-Strickland,"vegan,healthy",Energy Bars,8.0,444
+Eayo,"vegetarian,baked, cheese",Chips,8.0,444
+Yodel,"vegetarian,sweet, fruit flavours ",Candy,8.0,444
+Skinte,"vegan,healthy",Protien Bars,8.0,444
+Zoozzy,"vegan, chocolate,gluten free,sweet",Chocolates,8.0,444
+Fix San,"vegetarian,gluten free,healthy",Cookies/Biscuits,8.0,444
+Francis-Cook,"vegetarian,frozen food",International ,8.0,444
+Hardy PLC,"non vegetarian, fried ",International ,8.0,444
+Williams-Jensen,"non vegetarian,sweet",Cakes,8.0,444
+Kaymbo,"vegetarian,sweet,artificial flavours",Candy,8.0,444
+"Mayo, Edwards and Flynn","non vegetarian,healthy",Yogurt ,8.0,444
+"Glass, Lambert and Martin",vegan,Bread Products,8.0,444
+Flipstorm,"vegan, chocolate, extra dark",Chocolates,8.0,444
+Thoughtstorm,"non vegetarian,baked, spicy",Chips,8.0,444
+Kwimbee,"vegan,gluten free,healthy",Protien Bars,8.0,444
+Vawain,"vegetarian,gluten free,healthy",Cookies/Biscuits,8.0,444
+"Smith, Cox and Hubbard","non vegetarian,baked",Cookies/Biscuits,8.0,444
+Barron-Taylor,"non vegetarian,frozen food",International ,8.0,444
+Prodder,non vegetarian,Bread Products,8.0,444
+Taylor LLC,vegan,International ,7.0,444
+Hyperzest,"vegetarian, chocolate,sweet",Chocolates,7.0,444
+Hernandez-Ibarra,"vegetarian,sweet,artificial flavours",Candy,7.0,444
+Foster-Brown,"vegetarian,baked, cheese",Chips,7.0,444
+"Chambers, Henry and Golden","vegetarian,healthy",Bread Products,7.0,444
+"Campbell, Frank and Rogers","vegetarian,baked",Cookies/Biscuits,7.0,444
+Brainverse,non vegetarian,Bread Products,7.0,444
+"Clark, Medina and Bautista","vegetarian,gluten free,healthy",Cookies/Biscuits,7.0,444
+Todd and Sons,"vegetarian,sweet, fruit flavours ",Candy,7.0,444
+Scott PLC,"vegetarian,baked",Cookies/Biscuits,7.0,444
+"Anderson, Davis and Ramirez",vegan,Cookies/Biscuits,7.0,444
+Baker-Olson,"vegetarian, chocolate,gluten free,sweet",Chocolates,7.0,444
+Jayo,vegan,Bread Products,7.0,444
+Johnson-Watkins,"vegetarian,baked",Bread Products,7.0,444
+Mccormick PLC,"vegan,healthy",Yogurt ,7.0,444
+Davidson-Lopez,"vegetarian,sweet, fruit flavours ",Candy,7.0,444
+Scott-Henderson,"vegan, dark chocolate,gluten free, bitter",Chocolates,7.0,444
+Chambers-Smith,"vegetarian,healthy",Bread Products,7.0,444
+Nash,"vegan,healthy",Bread Products,7.0,444
+Onion and black pepper bagel,"vegetarian,baked",Bread Products,7.0,444
+"White, Hartman and Fisher",vegetarian,Jams,7.0,444
+Wright-George,"non vegetarian,frozen food",International ,7.0,444
+Brown PLC,"vegetarian,baked",Cookies/Biscuits,7.0,444
+"King, Villarreal and Hughes","vegetarian,baked,sweet",Cakes,7.0,444
+Lit,"vegetarian,frozen food",International ,7.0,444
+Voolith,vegan,International ,7.0,444
+"Martinez, Hardy and Valdez",vegan,Crepes,7.0,444
+Srudtion,"vegetarian, dark chocolate, bitter",Chocolates,7.0,444
+Cohen and Sons,"non vegetarian,baked",Bread Products,7.0,444
+Tahini and egg bagel,"vegetarian,baked",Bread Products,7.0,444
+Garcia-Campbell,vegetarian,Yogurt ,7.0,444
+"Spencer, Matthews and Garcia","vegan, chocolate,gluten free,sweet",Chocolates,7.0,444
+Contradless,vegan,Bread Products,7.0,444
+Santos and Sons,"vegetarian, fried ",International ,7.0,444
+Douglas-Hernandez,"vegetarian, fried ",International ,6.0,444
+"Williams, Lane and Crawford","vegetarian, chocolate,gluten free,sweet",Chocolates,6.0,444
+"Cowan, Wagner and Ritter","vegetarian,baked,salty ",Chips,6.0,444
+"Cochran, Walker and Walters","non vegetarian,healthy",Energy Bars,6.0,444
+Sugary treats,"vegetarian,sweet, fruit flavours ",Candy,6.0,444
+"Cross, Barnett and Davis","vegetarian,baked,sweet",Cakes,6.0,444
+"Roberts, Lee and Rodriguez","non vegetarian,sweet",Cakes,6.0,444
+Jimenez-Norris,"vegetarian,sweet,artificial flavours",Candy,6.0,444
+Lucas Ltd,"vegetarian, chocolate,gluten free,sweet",Chocolates,6.0,444
+Graham Ltd,"vegetarian,sweet, fruit flavours ",Candy,6.0,444
+Pham LLC,"non vegetarian,baked",Cakes,6.0,444
+Logan PLC,"vegetarian, dark chocolate, bitter",Chocolates,6.0,444
+Barton Ltd,"non vegetarian,baked,salty",Bread Products,6.0,444
+"Garrison, Craig and Jones","vegetarian,baked",Cakes,6.0,444
+Green Ltd,"vegan,healthy",Energy Bars,6.0,444
+Temp,"non vegetarian,artificial flavours",Jams,6.0,444
+Blake-Brown,"vegan,healthy",Energy Bars,6.0,444
+Ramirez-Henderson,"vegetarian,healthy",Bread Products,6.0,444
+Nguyen PLC,vegetarian,Crepes,6.0,444
+"Quinn, Perez and Jones",vegan,International ,6.0,444
+Brainlounge,"vegetarian,healthy",Yogurt ,5.0,444
+"Rivera, Reyes and Sims","vegetarian,frozen food",International ,5.0,444
+Rice Group,"non vegetarian,baked, spicy",Chips,5.0,444
+Bishop LLC,"vegan,healthy",Protien Bars,5.0,444
+"Huber, Herrera and Bryant","vegetarian,gluten free,healthy",Energy Bars,5.0,444
+Gonzalez-Davis,"vegetarian,frozen food",International ,5.0,444
+Mitchell-Holland,"non vegetarian,frozen food",International ,5.0,444
+Stim,"non vegetarian,baked",Cookies/Biscuits,5.0,444
+"Nichols, Bauer and Ward","vegetarian,sweet, fruit flavours ",Candy,4.0,444
+Cowan Group,vegan,Crepes,4.0,444
+Williams-Baker,vegan,International ,4.0,444
+"Reed, Brown and Gardner",vegan,Crepes,3.0,444
+Knight Inc,"non vegetarian,healthy",Energy Bars,2.0,444
+Hyperney,vegan,Bread Products,10.0,31
+"Reese, Howard and Vasquez","vegetarian,baked",Bread Products,10.0,31
+Flipopia,"vegetarian,baked,salty",Chips,9.0,31
+Thoughtstorm,"non vegetarian,baked, spicy",Chips,9.0,31
+Hernandez-Gentry,"non vegetarian,healthy",Bread Products,9.0,31
+Sherad,vegan,Crepes,9.0,31
+Todd and Sons,"vegetarian,sweet, fruit flavours ",Candy,9.0,31
+Hood-Parsons,"vegetarian,sweet,artificial flavours",Candy,9.0,31
+Chang-George,"vegetarian,sweet,artificial flavours",Candy,9.0,31
+Jingles,"vegetarian,sweet,artificial flavours",Candy,9.0,31
+Hardy PLC,"non vegetarian, fried ",International ,9.0,31
+Evans Group,"vegan,baked, cheese",Chips,9.0,31
+Sugary treats,"vegetarian,sweet, fruit flavours ",Candy,9.0,31
+"Parks, Savage and Fisher","vegetarian,frozen food",International ,9.0,31
+Contradless,vegan,Bread Products,9.0,31
+Jaxnation,"vegetarian,baked",Cookies/Biscuits,9.0,31
+Salazar-Mendez,"vegan,healthy",Bread Products,9.0,31
+"Armstrong, Best and Jensen","non vegetarian,frozen food",International ,9.0,31
+Lucas PLC,"vegetarian, dark chocolate, bitter",Chocolates,9.0,31
+Yadel,vegetarian,Bread Products,9.0,31
+Clark and Sons,"vegetarian,baked",Bread Products,9.0,31
+Devshare,"vegetarian,baked",Bread Products,9.0,31
+"Brown, Sullivan and Russo",non vegetarian,Cakes,9.0,31
+Wright-George,"non vegetarian,frozen food",International ,8.0,31
+King Group,"non vegetarian,baked,salty ",Chips,8.0,31
+"Taylor, Floyd and Acosta","vegetarian,baked",Cookies/Biscuits,8.0,31
+Martinez-Delacruz,vegan,Bread Products,8.0,31
+Lambert-Silva,"vegan,healthy",Bread Products,8.0,31
+Tagcat,"vegetarian,gluten free,healthy",Energy Bars,8.0,31
+"Clayton, Mcdaniel and Taylor","non vegetarian,baked",Bread Products,8.0,31
+"Vang, Chandler and Yu","vegetarian,baked",Cookies/Biscuits,8.0,31
+Nestle Crispy chicken chips,"non vegetarian,baked, spicy",Chips,8.0,31
+Parker-Sanchez,"vegetarian,baked",Bread Products,8.0,31
+Solarbreeze,"vegetarian,frozen food",International ,8.0,31
+Banks Group,"non vegetarian,healthy",Protien Bars,8.0,31
+"Green, Myers and Parker","vegetarian, fried ",International ,8.0,31
+Sullivan Group,"non vegetarian,baked",Bread Products,8.0,31
+"Malone, Johnson and Carter","non vegetarian,healthy",Energy Bars,8.0,31
+Ario Non veg treats spicy,"non vegetarian,baked, spicy",Chips,8.0,31
+Munoz-Mitchell,"vegetarian,frozen food",International ,8.0,31
+Chapman PLC,"non vegetarian,healthy",Energy Bars,7.0,31
+"Coleman, Mills and Stuart","non vegetarian,baked",Cakes,7.0,31
+Chandler and Sons,"non vegetarian,baked",Cookies/Biscuits,7.0,31
+Hurley Inc,vegetarian,Crepes,7.0,31
+Foster-Marshall,"vegetarian, fried ",International ,7.0,31
+Mydo,"vegetarian, chocolate, waffer",Chocolates,7.0,31
+Nguyen-Mcmillan,"non vegetarian,baked,salty",Bread Products,7.0,31
+Fernandez-Vance,"non vegetarian,baked,salty",Bread Products,7.0,31
+Huang-Short,"non vegetarian,baked,salty",Chips,7.0,31
+"Martinez, Hardy and Valdez",vegan,Crepes,7.0,31
+Wells-Adams,"vegetarian,sweet, fruit flavours ",Candy,7.0,31
+Logan PLC,"vegetarian, dark chocolate, bitter",Chocolates,7.0,31
+"Long, Wilson and Jefferson","vegetarian,baked",Bread Products,7.0,31
+Garlic and aubergine bread,vegan,Bread Products,7.0,31
+Jenkins and Sons,"vegetarian,sweet,artificial flavours,gluten free",Candy,7.0,31
+"Brown, Wheeler and Smith","vegetarian,frozen food",International ,7.0,31
+"Kline, Shah and Moore","non vegetarian,baked",Bread Products,7.0,31
+Ramirez-Henderson,"vegetarian,healthy",Bread Products,7.0,31
+Jacobs LLC,"vegetarian,gluten free,healthy",Cookies/Biscuits,7.0,31
+Yakitri,"non vegetarian,frozen food",International ,7.0,31
+Scott-Henderson,"vegan, dark chocolate,gluten free, bitter",Chocolates,7.0,31
+Jones-Robinson,"non vegetarian,baked,salty ",Chips,7.0,31
+Banks PLC,"non vegetarian,baked",Chips,7.0,31
+Demizz,"vegetarian,frozen food",International ,7.0,31
+"Garcia, Valenzuela and Gillespie",vegan,Bread Products,7.0,31
+Nash,"vegan,healthy",Bread Products,7.0,31
+Simon and Sons,"vegan,baked,salty",Chips,7.0,31
+Rich Group,non vegetarian,Crepes,7.0,31
+Houston LLC,"vegetarian,baked",Cookies/Biscuits,7.0,31
+"Richardson, Zamora and Adams","non vegetarian,baked,salty",Chips,7.0,31
+"Anderson, Davis and Ramirez",vegan,Cookies/Biscuits,7.0,31
+Hanson-Stafford,"vegetarian,sweet, fruit flavours ",Candy,7.0,31
+Williams Ltd,"non vegetarian,baked, cheese",Chips,7.0,31
+Milk Bikks,"vegetarian,baked",Cookies/Biscuits,7.0,31
+Hypernism,"non vegetarian,healthy",Protien Bars,7.0,31
+Johnson Ltd,"vegetarian,baked",Cookies/Biscuits,7.0,31
+Smith-Warner,"vegetarian,baked,sweet",Cakes,7.0,31
+Graham Ltd,"vegetarian,sweet, fruit flavours ",Candy,7.0,31
+Campbell Ltd,"vegetarian, fried ",International ,7.0,31
+Voomm,vegetarian,Crepes,7.0,31
+Harrington LLC,"vegetarian,baked",Bread Products,7.0,31
+Chaney Inc,"vegetarian,baked, spicy",Chips,7.0,31
+Latlux,"non vegetarian,baked",Cakes,7.0,31
+Wilson-Ray,"vegetarian,frozen food",International ,6.0,31
+Yambee,vegan,International ,6.0,31
+Price-Brown,"non vegetarian,baked",Bread Products,6.0,31
+"Williams, Dudley and Mueller","non vegetarian,frozen food",International ,6.0,31
