@@ -64,17 +64,19 @@ def make_prediction(streamer_name,streamer_genres,streamer_games):
     what they enter into our website and what our database has recorded for them.
     '''
     genres, algo_genre_user, games, algo_game_user = load_models()
+    print(len(games['game_name'].unique()))
 
- 
     # Look at genres of games that the streamer is currently playing using our database
     recorder_genre_list = display_current_genres(streamer_name, genres)
+    #recorder_genre_list = display_current_genres(streamer_name, genres)
     # Combine above with the genres the streamer has entered into our website
-    full_genres = set(recorder_genre_list + list(streamer_genres))
+    full_genres = set(recorder_genre_list + streamer_genres)
     full_genres = list(full_genres)
 
     # Repeat above for games
     recorder_game_list = display_current_games(streamer_name, games)
-    full_games = set(recorder_game_list + list(streamer_games))
+    # recorder_game_list = display_current_games(streamer_name, games)
+    full_games = set(recorder_game_list + streamer_games)
     full_games = list(full_games)
 
     genre_iids = genres['game_genres'].unique()
@@ -86,20 +88,25 @@ def make_prediction(streamer_name,streamer_genres,streamer_games):
 
     genre_personal_predictions = algo_genre_user.test(genre_testset_personal)
     genre_top_n = get_top_n(genre_personal_predictions)
+
     for uid, genre_user_ratings in genre_top_n.items():
         genre_user_based_list = [iid for (iid, _) in genre_user_ratings]
 
     game_iids = games['game_name'].unique()
     game_iids_to_predict = np.setdiff1d(game_iids, full_games, assume_unique=True)
+
     game_testset_personal = [[streamer_name, iid, 4.] for iid in game_iids_to_predict]
+
     game_personal_predictions = algo_game_user.test(game_testset_personal)
     game_top_n = get_top_n(game_personal_predictions)
+
     for uid, game_user_ratings in game_top_n.items():
         game_user_based_list = [iid for (iid, _) in game_user_ratings]
 
    
     genre_recommendations = set(genre_user_based_list)
     game_recommendations = set(game_user_based_list)
+
     return_dict = dict()
     input_dict = dict()
     input_dict['streamer_name'] = streamer_name
@@ -116,13 +123,14 @@ def make_prediction(streamer_name,streamer_genres,streamer_games):
 
 # For troubleshooting, pass some default parameters
 if __name__ == '__main__':
+    pass
 
-    streamer_name = 'Ninja'
-    streamer_genres = 'Action'
-    streamer_games = 'Fortnite'
+    # streamer_name = 'Ninja'
+    # streamer_genres = 'Action'
+    # streamer_games = 'Fortnite'
 
 
-    # recommendations = make_prediction(streamer_name,streamer_genres,streamer_games)
+    # recommendations,pic_urls = make_prediction(streamer_name,streamer_genres,streamer_games)
     # print('Input Values: ',input_values['streamer_name'],
     #                         input_values['streamer_genres'],
     #                          input_values['streamer_games']  )
